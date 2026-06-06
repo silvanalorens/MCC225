@@ -1,0 +1,511 @@
+video_id,youtube_id,segment_id,start,end,caption,frame_idx,frame_path
+v_bQ3yPbCICRg,bQ3yPbCICRg,0,0.0,2.31,A man is seen bending over a bang in the middle of drummers.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/bQ3yPbCICRg_seg0_f0.jpg
+v_bQ3yPbCICRg,bQ3yPbCICRg,0,0.0,2.31,A man is seen bending over a bang in the middle of drummers.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/bQ3yPbCICRg_seg0_f1.jpg
+v_bQ3yPbCICRg,bQ3yPbCICRg,0,0.0,2.31,A man is seen bending over a bang in the middle of drummers.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/bQ3yPbCICRg_seg0_f2.jpg
+v_bQ3yPbCICRg,bQ3yPbCICRg,0,0.0,2.31,A man is seen bending over a bang in the middle of drummers.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/bQ3yPbCICRg_seg0_f3.jpg
+v_bQ3yPbCICRg,bQ3yPbCICRg,0,0.0,2.31,A man is seen bending over a bang in the middle of drummers.,4,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/bQ3yPbCICRg_seg0_f4.jpg
+v_bQ3yPbCICRg,bQ3yPbCICRg,1,2.2,8.13, The people hit the drums continuously while the camera pans around.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/bQ3yPbCICRg_seg1_f0.jpg
+v_bQ3yPbCICRg,bQ3yPbCICRg,1,2.2,8.13, The people hit the drums continuously while the camera pans around.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/bQ3yPbCICRg_seg1_f1.jpg
+v_bQ3yPbCICRg,bQ3yPbCICRg,1,2.2,8.13, The people hit the drums continuously while the camera pans around.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/bQ3yPbCICRg_seg1_f2.jpg
+v_bQ3yPbCICRg,bQ3yPbCICRg,1,2.2,8.13, The people hit the drums continuously while the camera pans around.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/bQ3yPbCICRg_seg1_f3.jpg
+v_bQ3yPbCICRg,bQ3yPbCICRg,1,2.2,8.13, The people hit the drums continuously while the camera pans around.,4,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/bQ3yPbCICRg_seg1_f4.jpg
+v_bQ3yPbCICRg,bQ3yPbCICRg,2,7.77,10.18, The men drum while the camera pans around them.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/bQ3yPbCICRg_seg2_f0.jpg
+v_bQ3yPbCICRg,bQ3yPbCICRg,2,7.77,10.18, The men drum while the camera pans around them.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/bQ3yPbCICRg_seg2_f1.jpg
+v_bQ3yPbCICRg,bQ3yPbCICRg,2,7.77,10.18, The men drum while the camera pans around them.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/bQ3yPbCICRg_seg2_f2.jpg
+v_bQ3yPbCICRg,bQ3yPbCICRg,2,7.77,10.18, The men drum while the camera pans around them.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/bQ3yPbCICRg_seg2_f3.jpg
+v_bQ3yPbCICRg,bQ3yPbCICRg,2,7.77,10.18, The men drum while the camera pans around them.,4,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/bQ3yPbCICRg_seg2_f4.jpg
+v_4R5KDUqBPcU,4R5KDUqBPcU,0,1.95,5.79,There's a man wearing a black athletic suit in a shot put field practicing shot put.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/4R5KDUqBPcU_seg0_f0.jpg
+v_4R5KDUqBPcU,4R5KDUqBPcU,0,1.95,5.79,There's a man wearing a black athletic suit in a shot put field practicing shot put.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/4R5KDUqBPcU_seg0_f1.jpg
+v_4R5KDUqBPcU,4R5KDUqBPcU,0,1.95,5.79,There's a man wearing a black athletic suit in a shot put field practicing shot put.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/4R5KDUqBPcU_seg0_f2.jpg
+v_4R5KDUqBPcU,4R5KDUqBPcU,0,1.95,5.79,There's a man wearing a black athletic suit in a shot put field practicing shot put.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/4R5KDUqBPcU_seg0_f3.jpg
+v_4R5KDUqBPcU,4R5KDUqBPcU,0,1.95,5.79,There's a man wearing a black athletic suit in a shot put field practicing shot put.,4,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/4R5KDUqBPcU_seg0_f4.jpg
+v_4R5KDUqBPcU,4R5KDUqBPcU,1,5.79,8.81, He begins by taking the ball in his hand and holding it against his neck.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/4R5KDUqBPcU_seg1_f0.jpg
+v_4R5KDUqBPcU,4R5KDUqBPcU,1,5.79,8.81, He begins by taking the ball in his hand and holding it against his neck.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/4R5KDUqBPcU_seg1_f1.jpg
+v_4R5KDUqBPcU,4R5KDUqBPcU,1,5.79,8.81, He begins by taking the ball in his hand and holding it against his neck.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/4R5KDUqBPcU_seg1_f2.jpg
+v_4R5KDUqBPcU,4R5KDUqBPcU,1,5.79,8.81, He begins by taking the ball in his hand and holding it against his neck.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/4R5KDUqBPcU_seg1_f3.jpg
+v_4R5KDUqBPcU,4R5KDUqBPcU,1,5.79,8.81, He begins by taking the ball in his hand and holding it against his neck.,4,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/4R5KDUqBPcU_seg1_f4.jpg
+v_4R5KDUqBPcU,4R5KDUqBPcU,2,8.81,9.68, Then he spins around and throws the ball far ahead.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/4R5KDUqBPcU_seg2_f0.jpg
+v_4R5KDUqBPcU,4R5KDUqBPcU,2,8.81,9.68, Then he spins around and throws the ball far ahead.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/4R5KDUqBPcU_seg2_f1.jpg
+v_4R5KDUqBPcU,4R5KDUqBPcU,2,8.81,9.68, Then he spins around and throws the ball far ahead.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/4R5KDUqBPcU_seg2_f2.jpg
+v_4R5KDUqBPcU,4R5KDUqBPcU,2,8.81,9.68, Then he spins around and throws the ball far ahead.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/4R5KDUqBPcU_seg2_f3.jpg
+v_4R5KDUqBPcU,4R5KDUqBPcU,2,8.81,9.68, Then he spins around and throws the ball far ahead.,4,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/4R5KDUqBPcU_seg2_f4.jpg
+v_6KG4p_pfMQc,6KG4p_pfMQc,0,0.0,12.26,man wearing a red shirt is standing in a large green field behind kids.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/6KG4p_pfMQc_seg0_f0.jpg
+v_6KG4p_pfMQc,6KG4p_pfMQc,0,0.0,12.26,man wearing a red shirt is standing in a large green field behind kids.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/6KG4p_pfMQc_seg0_f1.jpg
+v_6KG4p_pfMQc,6KG4p_pfMQc,0,0.0,12.26,man wearing a red shirt is standing in a large green field behind kids.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/6KG4p_pfMQc_seg0_f2.jpg
+v_6KG4p_pfMQc,6KG4p_pfMQc,0,0.0,12.26,man wearing a red shirt is standing in a large green field behind kids.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/6KG4p_pfMQc_seg0_f3.jpg
+v_6KG4p_pfMQc,6KG4p_pfMQc,1,3.31,8.71, little blonde kid throw a ball and a kid kicks the ball in the field.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/6KG4p_pfMQc_seg1_f0.jpg
+v_6KG4p_pfMQc,6KG4p_pfMQc,1,3.31,8.71, little blonde kid throw a ball and a kid kicks the ball in the field.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/6KG4p_pfMQc_seg1_f1.jpg
+v_6KG4p_pfMQc,6KG4p_pfMQc,1,3.31,8.71, little blonde kid throw a ball and a kid kicks the ball in the field.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/6KG4p_pfMQc_seg1_f2.jpg
+v_6KG4p_pfMQc,6KG4p_pfMQc,1,3.31,8.71, little blonde kid throw a ball and a kid kicks the ball in the field.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/6KG4p_pfMQc_seg1_f3.jpg
+v_6KG4p_pfMQc,6KG4p_pfMQc,1,3.31,8.71, little blonde kid throw a ball and a kid kicks the ball in the field.,4,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/6KG4p_pfMQc_seg1_f4.jpg
+v_6KG4p_pfMQc,6KG4p_pfMQc,2,8.71,12.26, kisd are running in the field to catch th ball.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/6KG4p_pfMQc_seg2_f0.jpg
+v_6KG4p_pfMQc,6KG4p_pfMQc,2,8.71,12.26, kisd are running in the field to catch th ball.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/6KG4p_pfMQc_seg2_f1.jpg
+v_6KG4p_pfMQc,6KG4p_pfMQc,2,8.71,12.26, kisd are running in the field to catch th ball.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/6KG4p_pfMQc_seg2_f2.jpg
+v_6KG4p_pfMQc,6KG4p_pfMQc,2,8.71,12.26, kisd are running in the field to catch th ball.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/6KG4p_pfMQc_seg2_f3.jpg
+v_uwGcEaW3z3Q,uwGcEaW3z3Q,0,0.0,1.82,A man is trying to lift weights in a gym.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/uwGcEaW3z3Q_seg0_f0.jpg
+v_uwGcEaW3z3Q,uwGcEaW3z3Q,0,0.0,1.82,A man is trying to lift weights in a gym.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/uwGcEaW3z3Q_seg0_f1.jpg
+v_uwGcEaW3z3Q,uwGcEaW3z3Q,0,0.0,1.82,A man is trying to lift weights in a gym.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/uwGcEaW3z3Q_seg0_f2.jpg
+v_uwGcEaW3z3Q,uwGcEaW3z3Q,0,0.0,1.82,A man is trying to lift weights in a gym.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/uwGcEaW3z3Q_seg0_f3.jpg
+v_uwGcEaW3z3Q,uwGcEaW3z3Q,0,0.0,1.82,A man is trying to lift weights in a gym.,4,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/uwGcEaW3z3Q_seg0_f4.jpg
+v_uwGcEaW3z3Q,uwGcEaW3z3Q,1,2.55,8.86, He lifts the barbell up to his chest.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/uwGcEaW3z3Q_seg1_f0.jpg
+v_uwGcEaW3z3Q,uwGcEaW3z3Q,1,2.55,8.86, He lifts the barbell up to his chest.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/uwGcEaW3z3Q_seg1_f1.jpg
+v_uwGcEaW3z3Q,uwGcEaW3z3Q,1,2.55,8.86, He lifts the barbell up to his chest.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/uwGcEaW3z3Q_seg1_f2.jpg
+v_uwGcEaW3z3Q,uwGcEaW3z3Q,1,2.55,8.86, He lifts the barbell up to his chest.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/uwGcEaW3z3Q_seg1_f3.jpg
+v_uwGcEaW3z3Q,uwGcEaW3z3Q,1,2.55,8.86, He lifts the barbell up to his chest.,4,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/uwGcEaW3z3Q_seg1_f4.jpg
+v_uwGcEaW3z3Q,uwGcEaW3z3Q,2,9.37,11.36, He then lifts it over his head before dropping it to the ground.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/uwGcEaW3z3Q_seg2_f0.jpg
+v_uwGcEaW3z3Q,uwGcEaW3z3Q,2,9.37,11.36, He then lifts it over his head before dropping it to the ground.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/uwGcEaW3z3Q_seg2_f1.jpg
+v_uwGcEaW3z3Q,uwGcEaW3z3Q,2,9.37,11.36, He then lifts it over his head before dropping it to the ground.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/uwGcEaW3z3Q_seg2_f2.jpg
+v_uwGcEaW3z3Q,uwGcEaW3z3Q,2,9.37,11.36, He then lifts it over his head before dropping it to the ground.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/uwGcEaW3z3Q_seg2_f3.jpg
+v_sVk-Br0zfkA,sVk-Br0zfkA,0,0.15,2.66,A close up of a woman is seen looking off into the distance and holding a dart.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/sVk-Br0zfkA_seg0_f0.jpg
+v_sVk-Br0zfkA,sVk-Br0zfkA,0,0.15,2.66,A close up of a woman is seen looking off into the distance and holding a dart.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/sVk-Br0zfkA_seg0_f1.jpg
+v_sVk-Br0zfkA,sVk-Br0zfkA,0,0.15,2.66,A close up of a woman is seen looking off into the distance and holding a dart.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/sVk-Br0zfkA_seg0_f2.jpg
+v_sVk-Br0zfkA,sVk-Br0zfkA,0,0.15,2.66,A close up of a woman is seen looking off into the distance and holding a dart.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/sVk-Br0zfkA_seg0_f3.jpg
+v_sVk-Br0zfkA,sVk-Br0zfkA,0,0.15,2.66,A close up of a woman is seen looking off into the distance and holding a dart.,4,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/sVk-Br0zfkA_seg0_f4.jpg
+v_sVk-Br0zfkA,sVk-Br0zfkA,1,2.21,7.84, She throws the dart onto the board which is show up close.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/sVk-Br0zfkA_seg1_f0.jpg
+v_sVk-Br0zfkA,sVk-Br0zfkA,1,2.21,7.84, She throws the dart onto the board which is show up close.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/sVk-Br0zfkA_seg1_f1.jpg
+v_sVk-Br0zfkA,sVk-Br0zfkA,1,2.21,7.84, She throws the dart onto the board which is show up close.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/sVk-Br0zfkA_seg1_f2.jpg
+v_sVk-Br0zfkA,sVk-Br0zfkA,1,2.21,7.84, She throws the dart onto the board which is show up close.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/sVk-Br0zfkA_seg1_f3.jpg
+v_sVk-Br0zfkA,sVk-Br0zfkA,1,2.21,7.84, She throws the dart onto the board which is show up close.,4,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/sVk-Br0zfkA_seg1_f4.jpg
+v_sVk-Br0zfkA,sVk-Br0zfkA,2,7.39,9.65, The woman then clenches her fists and her throw is shown again.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/sVk-Br0zfkA_seg2_f0.jpg
+v_sVk-Br0zfkA,sVk-Br0zfkA,2,7.39,9.65, The woman then clenches her fists and her throw is shown again.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/sVk-Br0zfkA_seg2_f1.jpg
+v_sVk-Br0zfkA,sVk-Br0zfkA,2,7.39,9.65, The woman then clenches her fists and her throw is shown again.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/sVk-Br0zfkA_seg2_f2.jpg
+v_sVk-Br0zfkA,sVk-Br0zfkA,2,7.39,9.65, The woman then clenches her fists and her throw is shown again.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/sVk-Br0zfkA_seg2_f3.jpg
+v_sVk-Br0zfkA,sVk-Br0zfkA,2,7.39,9.65, The woman then clenches her fists and her throw is shown again.,4,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/sVk-Br0zfkA_seg2_f4.jpg
+v_9uZoTZsTwv0,9uZoTZsTwv0,0,0.0,1.65,A teenage boy on a horse spinning a rope in the air chases after a little cow.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/9uZoTZsTwv0_seg0_f0.jpg
+v_9uZoTZsTwv0,9uZoTZsTwv0,0,0.0,1.65,A teenage boy on a horse spinning a rope in the air chases after a little cow.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/9uZoTZsTwv0_seg0_f1.jpg
+v_9uZoTZsTwv0,9uZoTZsTwv0,0,0.0,1.65,A teenage boy on a horse spinning a rope in the air chases after a little cow.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/9uZoTZsTwv0_seg0_f2.jpg
+v_9uZoTZsTwv0,9uZoTZsTwv0,0,0.0,1.65,A teenage boy on a horse spinning a rope in the air chases after a little cow.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/9uZoTZsTwv0_seg0_f3.jpg
+v_9uZoTZsTwv0,9uZoTZsTwv0,0,0.0,1.65,A teenage boy on a horse spinning a rope in the air chases after a little cow.,4,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/9uZoTZsTwv0_seg0_f4.jpg
+v_9uZoTZsTwv0,9uZoTZsTwv0,1,1.6,3.71, The cow is running and the boy throws the rope around its neck.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/9uZoTZsTwv0_seg1_f0.jpg
+v_9uZoTZsTwv0,9uZoTZsTwv0,1,1.6,3.71, The cow is running and the boy throws the rope around its neck.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/9uZoTZsTwv0_seg1_f1.jpg
+v_9uZoTZsTwv0,9uZoTZsTwv0,1,1.6,3.71, The cow is running and the boy throws the rope around its neck.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/9uZoTZsTwv0_seg1_f2.jpg
+v_9uZoTZsTwv0,9uZoTZsTwv0,1,1.6,3.71, The cow is running and the boy throws the rope around its neck.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/9uZoTZsTwv0_seg1_f3.jpg
+v_9uZoTZsTwv0,9uZoTZsTwv0,1,1.6,3.71, The cow is running and the boy throws the rope around its neck.,4,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/9uZoTZsTwv0_seg1_f4.jpg
+v_9uZoTZsTwv0,9uZoTZsTwv0,2,3.76,7.41, It causes the cow to fall over after being pulled back by the rope.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/9uZoTZsTwv0_seg2_f0.jpg
+v_9uZoTZsTwv0,9uZoTZsTwv0,2,3.76,7.41, It causes the cow to fall over after being pulled back by the rope.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/9uZoTZsTwv0_seg2_f1.jpg
+v_9uZoTZsTwv0,9uZoTZsTwv0,2,3.76,7.41, It causes the cow to fall over after being pulled back by the rope.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/9uZoTZsTwv0_seg2_f2.jpg
+v_9uZoTZsTwv0,9uZoTZsTwv0,2,3.76,7.41, It causes the cow to fall over after being pulled back by the rope.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/9uZoTZsTwv0_seg2_f3.jpg
+v_9uZoTZsTwv0,9uZoTZsTwv0,2,3.76,7.41, It causes the cow to fall over after being pulled back by the rope.,4,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/9uZoTZsTwv0_seg2_f4.jpg
+v_9uZoTZsTwv0,9uZoTZsTwv0,3,7.41,11.4, The boy goes running off the horse after it and pins the little cow down.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/9uZoTZsTwv0_seg3_f0.jpg
+v_9uZoTZsTwv0,9uZoTZsTwv0,3,7.41,11.4, The boy goes running off the horse after it and pins the little cow down.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/9uZoTZsTwv0_seg3_f1.jpg
+v_9uZoTZsTwv0,9uZoTZsTwv0,3,7.41,11.4, The boy goes running off the horse after it and pins the little cow down.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/9uZoTZsTwv0_seg3_f2.jpg
+v_9uZoTZsTwv0,9uZoTZsTwv0,3,7.41,11.4, The boy goes running off the horse after it and pins the little cow down.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/9uZoTZsTwv0_seg3_f3.jpg
+v_GZsplhHXQy0,GZsplhHXQy0,0,0.06,10.92,A man performs a kettle throw in front of an outdoor stadium filled with spectators in the audience.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/GZsplhHXQy0_seg0_f0.jpg
+v_GZsplhHXQy0,GZsplhHXQy0,0,0.06,10.92,A man performs a kettle throw in front of an outdoor stadium filled with spectators in the audience.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/GZsplhHXQy0_seg0_f1.jpg
+v_GZsplhHXQy0,GZsplhHXQy0,0,0.06,10.92,A man performs a kettle throw in front of an outdoor stadium filled with spectators in the audience.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/GZsplhHXQy0_seg0_f2.jpg
+v_GZsplhHXQy0,GZsplhHXQy0,0,0.06,10.92,A man performs a kettle throw in front of an outdoor stadium filled with spectators in the audience.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/GZsplhHXQy0_seg0_f3.jpg
+v_GZsplhHXQy0,GZsplhHXQy0,0,0.06,10.92,A man performs a kettle throw in front of an outdoor stadium filled with spectators in the audience.,4,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/GZsplhHXQy0_seg0_f4.jpg
+v_GZsplhHXQy0,GZsplhHXQy0,1,0.66,5.85,  A man on a round dirt area on a field swings a ball around and around while standing in place.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/GZsplhHXQy0_seg1_f0.jpg
+v_GZsplhHXQy0,GZsplhHXQy0,1,0.66,5.85,  A man on a round dirt area on a field swings a ball around and around while standing in place.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/GZsplhHXQy0_seg1_f1.jpg
+v_GZsplhHXQy0,GZsplhHXQy0,1,0.66,5.85,  A man on a round dirt area on a field swings a ball around and around while standing in place.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/GZsplhHXQy0_seg1_f2.jpg
+v_GZsplhHXQy0,GZsplhHXQy0,1,0.66,5.85,  A man on a round dirt area on a field swings a ball around and around while standing in place.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/GZsplhHXQy0_seg1_f3.jpg
+v_GZsplhHXQy0,GZsplhHXQy0,1,0.66,5.85,  A man on a round dirt area on a field swings a ball around and around while standing in place.,4,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/GZsplhHXQy0_seg1_f4.jpg
+v_GZsplhHXQy0,GZsplhHXQy0,2,6.4,8.05,"  The man lets the ball go, where it flies in the air ahead of him.",0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/GZsplhHXQy0_seg2_f0.jpg
+v_GZsplhHXQy0,GZsplhHXQy0,2,6.4,8.05,"  The man lets the ball go, where it flies in the air ahead of him.",1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/GZsplhHXQy0_seg2_f1.jpg
+v_GZsplhHXQy0,GZsplhHXQy0,2,6.4,8.05,"  The man lets the ball go, where it flies in the air ahead of him.",2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/GZsplhHXQy0_seg2_f2.jpg
+v_GZsplhHXQy0,GZsplhHXQy0,2,6.4,8.05,"  The man lets the ball go, where it flies in the air ahead of him.",3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/GZsplhHXQy0_seg2_f3.jpg
+v_GZsplhHXQy0,GZsplhHXQy0,2,6.4,8.05,"  The man lets the ball go, where it flies in the air ahead of him.",4,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/GZsplhHXQy0_seg2_f4.jpg
+v_GZsplhHXQy0,GZsplhHXQy0,3,8.6,10.81,  The man stops and bends with his knees as he watches the ball fly in the air.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/GZsplhHXQy0_seg3_f0.jpg
+v_GZsplhHXQy0,GZsplhHXQy0,3,8.6,10.81,  The man stops and bends with his knees as he watches the ball fly in the air.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/GZsplhHXQy0_seg3_f1.jpg
+v_GZsplhHXQy0,GZsplhHXQy0,3,8.6,10.81,  The man stops and bends with his knees as he watches the ball fly in the air.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/GZsplhHXQy0_seg3_f2.jpg
+v_GZsplhHXQy0,GZsplhHXQy0,3,8.6,10.81,  The man stops and bends with his knees as he watches the ball fly in the air.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/GZsplhHXQy0_seg3_f3.jpg
+v_GZsplhHXQy0,GZsplhHXQy0,3,8.6,10.81,  The man stops and bends with his knees as he watches the ball fly in the air.,4,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/GZsplhHXQy0_seg3_f4.jpg
+v_28GYivx4lyk,28GYivx4lyk,0,0.0,11.05,We see two people playing foosball.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/28GYivx4lyk_seg0_f0.jpg
+v_28GYivx4lyk,28GYivx4lyk,0,0.0,11.05,We see two people playing foosball.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/28GYivx4lyk_seg0_f1.jpg
+v_28GYivx4lyk,28GYivx4lyk,0,0.0,11.05,We see two people playing foosball.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/28GYivx4lyk_seg0_f2.jpg
+v_28GYivx4lyk,28GYivx4lyk,0,0.0,11.05,We see two people playing foosball.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/28GYivx4lyk_seg0_f3.jpg
+v_28GYivx4lyk,28GYivx4lyk,1,0.0,3.59, A man in a black shirt leave the room and turns before leaving.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/28GYivx4lyk_seg1_f0.jpg
+v_28GYivx4lyk,28GYivx4lyk,1,0.0,3.59, A man in a black shirt leave the room and turns before leaving.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/28GYivx4lyk_seg1_f1.jpg
+v_28GYivx4lyk,28GYivx4lyk,1,0.0,3.59, A man in a black shirt leave the room and turns before leaving.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/28GYivx4lyk_seg1_f2.jpg
+v_28GYivx4lyk,28GYivx4lyk,1,0.0,3.59, A man in a black shirt leave the room and turns before leaving.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/28GYivx4lyk_seg1_f3.jpg
+v_28GYivx4lyk,28GYivx4lyk,1,0.0,3.59, A man in a black shirt leave the room and turns before leaving.,4,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/28GYivx4lyk_seg1_f4.jpg
+v_28GYivx4lyk,28GYivx4lyk,2,9.34,11.05, A man puts his face in front of the camera.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/28GYivx4lyk_seg2_f0.jpg
+v_28GYivx4lyk,28GYivx4lyk,2,9.34,11.05, A man puts his face in front of the camera.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/28GYivx4lyk_seg2_f1.jpg
+v_28GYivx4lyk,28GYivx4lyk,2,9.34,11.05, A man puts his face in front of the camera.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/28GYivx4lyk_seg2_f2.jpg
+v_28GYivx4lyk,28GYivx4lyk,2,9.34,11.05, A man puts his face in front of the camera.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/28GYivx4lyk_seg2_f3.jpg
+v_W0RYvQUUNe0,W0RYvQUUNe0,0,0.0,11.58,The person is parasailing the water.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/W0RYvQUUNe0_seg0_f0.jpg
+v_W0RYvQUUNe0,W0RYvQUUNe0,0,0.0,11.58,The person is parasailing the water.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/W0RYvQUUNe0_seg0_f1.jpg
+v_W0RYvQUUNe0,W0RYvQUUNe0,0,0.0,11.58,The person is parasailing the water.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/W0RYvQUUNe0_seg0_f2.jpg
+v_W0RYvQUUNe0,W0RYvQUUNe0,0,0.0,11.58,The person is parasailing the water.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/W0RYvQUUNe0_seg0_f3.jpg
+v_W0RYvQUUNe0,W0RYvQUUNe0,1,1.27,3.42," As the person sail, he started to bounce on the water.",0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/W0RYvQUUNe0_seg1_f0.jpg
+v_W0RYvQUUNe0,W0RYvQUUNe0,1,1.27,3.42," As the person sail, he started to bounce on the water.",1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/W0RYvQUUNe0_seg1_f1.jpg
+v_W0RYvQUUNe0,W0RYvQUUNe0,1,1.27,3.42," As the person sail, he started to bounce on the water.",2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/W0RYvQUUNe0_seg1_f2.jpg
+v_W0RYvQUUNe0,W0RYvQUUNe0,1,1.27,3.42," As the person sail, he started to bounce on the water.",3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/W0RYvQUUNe0_seg1_f3.jpg
+v_W0RYvQUUNe0,W0RYvQUUNe0,1,1.27,3.42," As the person sail, he started to bounce on the water.",4,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/W0RYvQUUNe0_seg1_f4.jpg
+v_W0RYvQUUNe0,W0RYvQUUNe0,2,2.95,11.58, The person maneuver the sail to turn around.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/W0RYvQUUNe0_seg2_f0.jpg
+v_W0RYvQUUNe0,W0RYvQUUNe0,2,2.95,11.58, The person maneuver the sail to turn around.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/W0RYvQUUNe0_seg2_f1.jpg
+v_W0RYvQUUNe0,W0RYvQUUNe0,2,2.95,11.58, The person maneuver the sail to turn around.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/W0RYvQUUNe0_seg2_f2.jpg
+v_W0RYvQUUNe0,W0RYvQUUNe0,2,2.95,11.58, The person maneuver the sail to turn around.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/W0RYvQUUNe0_seg2_f3.jpg
+v_H2-rEH9TXR4,H2-rEH9TXR4,0,0.0,1.76,A woman in blue shorts hands a man a dart.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/H2-rEH9TXR4_seg0_f0.jpg
+v_H2-rEH9TXR4,H2-rEH9TXR4,0,0.0,1.76,A woman in blue shorts hands a man a dart.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/H2-rEH9TXR4_seg0_f1.jpg
+v_H2-rEH9TXR4,H2-rEH9TXR4,0,0.0,1.76,A woman in blue shorts hands a man a dart.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/H2-rEH9TXR4_seg0_f2.jpg
+v_H2-rEH9TXR4,H2-rEH9TXR4,0,0.0,1.76,A woman in blue shorts hands a man a dart.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/H2-rEH9TXR4_seg0_f3.jpg
+v_H2-rEH9TXR4,H2-rEH9TXR4,0,0.0,1.76,A woman in blue shorts hands a man a dart.,4,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/H2-rEH9TXR4_seg0_f4.jpg
+v_H2-rEH9TXR4,H2-rEH9TXR4,1,1.81,5.73, A man in a white hat throws a dart at a board.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/H2-rEH9TXR4_seg1_f0.jpg
+v_H2-rEH9TXR4,H2-rEH9TXR4,1,1.81,5.73, A man in a white hat throws a dart at a board.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/H2-rEH9TXR4_seg1_f1.jpg
+v_H2-rEH9TXR4,H2-rEH9TXR4,1,1.81,5.73, A man in a white hat throws a dart at a board.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/H2-rEH9TXR4_seg1_f2.jpg
+v_H2-rEH9TXR4,H2-rEH9TXR4,1,1.81,5.73, A man in a white hat throws a dart at a board.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/H2-rEH9TXR4_seg1_f3.jpg
+v_H2-rEH9TXR4,H2-rEH9TXR4,1,1.81,5.73, A man in a white hat throws a dart at a board.,4,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/H2-rEH9TXR4_seg1_f4.jpg
+v_H2-rEH9TXR4,H2-rEH9TXR4,2,5.68,10.0, The woman walks up to the board.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/H2-rEH9TXR4_seg2_f0.jpg
+v_H2-rEH9TXR4,H2-rEH9TXR4,2,5.68,10.0, The woman walks up to the board.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/H2-rEH9TXR4_seg2_f1.jpg
+v_H2-rEH9TXR4,H2-rEH9TXR4,2,5.68,10.0, The woman walks up to the board.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/H2-rEH9TXR4_seg2_f2.jpg
+v_H2-rEH9TXR4,H2-rEH9TXR4,2,5.68,10.0, The woman walks up to the board.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/H2-rEH9TXR4_seg2_f3.jpg
+v_H2-rEH9TXR4,H2-rEH9TXR4,2,5.68,10.0, The woman walks up to the board.,4,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/H2-rEH9TXR4_seg2_f4.jpg
+v_fGDVlbI90pw,fGDVlbI90pw,0,1.2,8.99,A young girl wearing a gray sweater with long red colored hair is brushing her hair.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/fGDVlbI90pw_seg0_f0.jpg
+v_fGDVlbI90pw,fGDVlbI90pw,0,1.2,8.99,A young girl wearing a gray sweater with long red colored hair is brushing her hair.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/fGDVlbI90pw_seg0_f1.jpg
+v_fGDVlbI90pw,fGDVlbI90pw,0,1.2,8.99,A young girl wearing a gray sweater with long red colored hair is brushing her hair.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/fGDVlbI90pw_seg0_f2.jpg
+v_fGDVlbI90pw,fGDVlbI90pw,0,1.2,8.99,A young girl wearing a gray sweater with long red colored hair is brushing her hair.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/fGDVlbI90pw_seg0_f3.jpg
+v_fGDVlbI90pw,fGDVlbI90pw,0,1.2,8.99,A young girl wearing a gray sweater with long red colored hair is brushing her hair.,4,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/fGDVlbI90pw_seg0_f4.jpg
+v_fGDVlbI90pw,fGDVlbI90pw,1,8.99,10.62, She is using a silver paddle brush to remove the knots from her hair and de-tangle it as she brushes it through.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/fGDVlbI90pw_seg1_f0.jpg
+v_fGDVlbI90pw,fGDVlbI90pw,1,8.99,10.62, She is using a silver paddle brush to remove the knots from her hair and de-tangle it as she brushes it through.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/fGDVlbI90pw_seg1_f1.jpg
+v_fGDVlbI90pw,fGDVlbI90pw,1,8.99,10.62, She is using a silver paddle brush to remove the knots from her hair and de-tangle it as she brushes it through.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/fGDVlbI90pw_seg1_f2.jpg
+v_fGDVlbI90pw,fGDVlbI90pw,1,8.99,10.62, She is using a silver paddle brush to remove the knots from her hair and de-tangle it as she brushes it through.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/fGDVlbI90pw_seg1_f3.jpg
+v_fGDVlbI90pw,fGDVlbI90pw,1,8.99,10.62, She is using a silver paddle brush to remove the knots from her hair and de-tangle it as she brushes it through.,4,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/fGDVlbI90pw_seg1_f4.jpg
+v_fGDVlbI90pw,fGDVlbI90pw,2,10.62,10.89, She suddenly begins to scream as she brushes her hair.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/fGDVlbI90pw_seg2_f0.jpg
+v_fGDVlbI90pw,fGDVlbI90pw,2,10.62,10.89, She suddenly begins to scream as she brushes her hair.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/fGDVlbI90pw_seg2_f1.jpg
+v_fGDVlbI90pw,fGDVlbI90pw,2,10.62,10.89, She suddenly begins to scream as she brushes her hair.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/fGDVlbI90pw_seg2_f2.jpg
+v_OJJMEEsOdPQ,OJJMEEsOdPQ,0,0.0,11.26,girl us hanging from a pole in a roofed gym and make a jump to the land pool.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/OJJMEEsOdPQ_seg0_f0.jpg
+v_OJJMEEsOdPQ,OJJMEEsOdPQ,0,0.0,11.26,girl us hanging from a pole in a roofed gym and make a jump to the land pool.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/OJJMEEsOdPQ_seg0_f1.jpg
+v_OJJMEEsOdPQ,OJJMEEsOdPQ,0,0.0,11.26,girl us hanging from a pole in a roofed gym and make a jump to the land pool.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/OJJMEEsOdPQ_seg0_f2.jpg
+v_OJJMEEsOdPQ,OJJMEEsOdPQ,0,0.0,11.26,girl us hanging from a pole in a roofed gym and make a jump to the land pool.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/OJJMEEsOdPQ_seg0_f3.jpg
+v_OJJMEEsOdPQ,OJJMEEsOdPQ,0,0.0,11.26,girl us hanging from a pole in a roofed gym and make a jump to the land pool.,4,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/OJJMEEsOdPQ_seg0_f4.jpg
+v_OJJMEEsOdPQ,OJJMEEsOdPQ,1,0.0,12.38, woman wwearing a red shirt is standing in front of the pole.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/OJJMEEsOdPQ_seg1_f0.jpg
+v_OJJMEEsOdPQ,OJJMEEsOdPQ,1,0.0,12.38, woman wwearing a red shirt is standing in front of the pole.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/OJJMEEsOdPQ_seg1_f1.jpg
+v_OJJMEEsOdPQ,OJJMEEsOdPQ,1,0.0,12.38, woman wwearing a red shirt is standing in front of the pole.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/OJJMEEsOdPQ_seg1_f2.jpg
+v_OJJMEEsOdPQ,OJJMEEsOdPQ,1,0.0,12.38, woman wwearing a red shirt is standing in front of the pole.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/OJJMEEsOdPQ_seg1_f3.jpg
+v_OJJMEEsOdPQ,OJJMEEsOdPQ,2,0.0,6.87, little girl is walking in front of he girl doing gymnastics.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/OJJMEEsOdPQ_seg2_f0.jpg
+v_OJJMEEsOdPQ,OJJMEEsOdPQ,2,0.0,6.87, little girl is walking in front of he girl doing gymnastics.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/OJJMEEsOdPQ_seg2_f1.jpg
+v_OJJMEEsOdPQ,OJJMEEsOdPQ,2,0.0,6.87, little girl is walking in front of he girl doing gymnastics.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/OJJMEEsOdPQ_seg2_f2.jpg
+v_OJJMEEsOdPQ,OJJMEEsOdPQ,2,0.0,6.87, little girl is walking in front of he girl doing gymnastics.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/OJJMEEsOdPQ_seg2_f3.jpg
+v_OJJMEEsOdPQ,OJJMEEsOdPQ,2,0.0,6.87, little girl is walking in front of he girl doing gymnastics.,4,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/OJJMEEsOdPQ_seg2_f4.jpg
+v_ZNsX4KYJlVQ,ZNsX4KYJlVQ,0,0.21,1.58,A boy is standing at the counter facing backwards from the dart board.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/ZNsX4KYJlVQ_seg0_f0.jpg
+v_ZNsX4KYJlVQ,ZNsX4KYJlVQ,0,0.21,1.58,A boy is standing at the counter facing backwards from the dart board.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/ZNsX4KYJlVQ_seg0_f1.jpg
+v_ZNsX4KYJlVQ,ZNsX4KYJlVQ,0,0.21,1.58,A boy is standing at the counter facing backwards from the dart board.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/ZNsX4KYJlVQ_seg0_f2.jpg
+v_ZNsX4KYJlVQ,ZNsX4KYJlVQ,0,0.21,1.58,A boy is standing at the counter facing backwards from the dart board.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/ZNsX4KYJlVQ_seg0_f3.jpg
+v_ZNsX4KYJlVQ,ZNsX4KYJlVQ,0,0.21,1.58,A boy is standing at the counter facing backwards from the dart board.,4,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/ZNsX4KYJlVQ_seg0_f4.jpg
+v_ZNsX4KYJlVQ,ZNsX4KYJlVQ,1,1.53,3.49, His mom is standing beside him and he is getting ready to throw his dart.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/ZNsX4KYJlVQ_seg1_f0.jpg
+v_ZNsX4KYJlVQ,ZNsX4KYJlVQ,1,1.53,3.49, His mom is standing beside him and he is getting ready to throw his dart.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/ZNsX4KYJlVQ_seg1_f1.jpg
+v_ZNsX4KYJlVQ,ZNsX4KYJlVQ,1,1.53,3.49, His mom is standing beside him and he is getting ready to throw his dart.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/ZNsX4KYJlVQ_seg1_f2.jpg
+v_ZNsX4KYJlVQ,ZNsX4KYJlVQ,1,1.53,3.49, His mom is standing beside him and he is getting ready to throw his dart.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/ZNsX4KYJlVQ_seg1_f3.jpg
+v_ZNsX4KYJlVQ,ZNsX4KYJlVQ,1,1.53,3.49, His mom is standing beside him and he is getting ready to throw his dart.,4,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/ZNsX4KYJlVQ_seg1_f4.jpg
+v_ZNsX4KYJlVQ,ZNsX4KYJlVQ,2,3.43,6.55, He throws it and completely misses the dart board all together.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/ZNsX4KYJlVQ_seg2_f0.jpg
+v_ZNsX4KYJlVQ,ZNsX4KYJlVQ,2,3.43,6.55, He throws it and completely misses the dart board all together.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/ZNsX4KYJlVQ_seg2_f1.jpg
+v_ZNsX4KYJlVQ,ZNsX4KYJlVQ,2,3.43,6.55, He throws it and completely misses the dart board all together.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/ZNsX4KYJlVQ_seg2_f2.jpg
+v_ZNsX4KYJlVQ,ZNsX4KYJlVQ,2,3.43,6.55, He throws it and completely misses the dart board all together.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/ZNsX4KYJlVQ_seg2_f3.jpg
+v_ZNsX4KYJlVQ,ZNsX4KYJlVQ,2,3.43,6.55, He throws it and completely misses the dart board all together.,4,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/ZNsX4KYJlVQ_seg2_f4.jpg
+v_ZNsX4KYJlVQ,ZNsX4KYJlVQ,3,6.5,10.57, He hits the top of the wall and he goes over to reach for it and take it out.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/ZNsX4KYJlVQ_seg3_f0.jpg
+v_ZNsX4KYJlVQ,ZNsX4KYJlVQ,3,6.5,10.57, He hits the top of the wall and he goes over to reach for it and take it out.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/ZNsX4KYJlVQ_seg3_f1.jpg
+v_ZNsX4KYJlVQ,ZNsX4KYJlVQ,3,6.5,10.57, He hits the top of the wall and he goes over to reach for it and take it out.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/ZNsX4KYJlVQ_seg3_f2.jpg
+v_ZNsX4KYJlVQ,ZNsX4KYJlVQ,3,6.5,10.57, He hits the top of the wall and he goes over to reach for it and take it out.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/ZNsX4KYJlVQ_seg3_f3.jpg
+v_Ufki4AjZHFI,Ufki4AjZHFI,0,0.0,11.21,A young man is shown on a road wearing stilts.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/Ufki4AjZHFI_seg0_f0.jpg
+v_Ufki4AjZHFI,Ufki4AjZHFI,0,0.0,11.21,A young man is shown on a road wearing stilts.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/Ufki4AjZHFI_seg0_f1.jpg
+v_Ufki4AjZHFI,Ufki4AjZHFI,0,0.0,11.21,A young man is shown on a road wearing stilts.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/Ufki4AjZHFI_seg0_f2.jpg
+v_Ufki4AjZHFI,Ufki4AjZHFI,0,0.0,11.21,A young man is shown on a road wearing stilts.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/Ufki4AjZHFI_seg0_f3.jpg
+v_Ufki4AjZHFI,Ufki4AjZHFI,0,0.0,11.21,A young man is shown on a road wearing stilts.,4,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/Ufki4AjZHFI_seg0_f4.jpg
+v_Ufki4AjZHFI,Ufki4AjZHFI,1,0.0,1.64, He walks over to the side of the road.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/Ufki4AjZHFI_seg1_f0.jpg
+v_Ufki4AjZHFI,Ufki4AjZHFI,1,0.0,1.64, He walks over to the side of the road.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/Ufki4AjZHFI_seg1_f1.jpg
+v_Ufki4AjZHFI,Ufki4AjZHFI,1,0.0,1.64, He walks over to the side of the road.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/Ufki4AjZHFI_seg1_f2.jpg
+v_Ufki4AjZHFI,Ufki4AjZHFI,1,0.0,1.64, He walks over to the side of the road.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/Ufki4AjZHFI_seg1_f3.jpg
+v_Ufki4AjZHFI,Ufki4AjZHFI,1,0.0,1.64, He walks over to the side of the road.,4,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/Ufki4AjZHFI_seg1_f4.jpg
+v_Ufki4AjZHFI,Ufki4AjZHFI,2,1.83,9.62, He then lifts his feet up and down as if in preparation of running.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/Ufki4AjZHFI_seg2_f0.jpg
+v_Ufki4AjZHFI,Ufki4AjZHFI,2,1.83,9.62, He then lifts his feet up and down as if in preparation of running.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/Ufki4AjZHFI_seg2_f1.jpg
+v_Ufki4AjZHFI,Ufki4AjZHFI,2,1.83,9.62, He then lifts his feet up and down as if in preparation of running.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/Ufki4AjZHFI_seg2_f2.jpg
+v_Ufki4AjZHFI,Ufki4AjZHFI,2,1.83,9.62, He then lifts his feet up and down as if in preparation of running.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/Ufki4AjZHFI_seg2_f3.jpg
+v_Ufki4AjZHFI,Ufki4AjZHFI,2,1.83,9.62, He then lifts his feet up and down as if in preparation of running.,4,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/Ufki4AjZHFI_seg2_f4.jpg
+v_Ufki4AjZHFI,Ufki4AjZHFI,3,10.66,12.18, The video ends as the person recording tilts the camera and covers the lens.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/Ufki4AjZHFI_seg3_f0.jpg
+v_Ufki4AjZHFI,Ufki4AjZHFI,3,10.66,12.18, The video ends as the person recording tilts the camera and covers the lens.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/Ufki4AjZHFI_seg3_f1.jpg
+v_Ufki4AjZHFI,Ufki4AjZHFI,3,10.66,12.18, The video ends as the person recording tilts the camera and covers the lens.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/Ufki4AjZHFI_seg3_f2.jpg
+v_Ufki4AjZHFI,Ufki4AjZHFI,3,10.66,12.18, The video ends as the person recording tilts the camera and covers the lens.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/Ufki4AjZHFI_seg3_f3.jpg
+v_kTStFRAp99E,kTStFRAp99E,0,0.0,2.04,We see two girls one sitting the other bending over.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/kTStFRAp99E_seg0_f0.jpg
+v_kTStFRAp99E,kTStFRAp99E,0,0.0,2.04,We see two girls one sitting the other bending over.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/kTStFRAp99E_seg0_f1.jpg
+v_kTStFRAp99E,kTStFRAp99E,0,0.0,2.04,We see two girls one sitting the other bending over.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/kTStFRAp99E_seg0_f2.jpg
+v_kTStFRAp99E,kTStFRAp99E,0,0.0,2.04,We see two girls one sitting the other bending over.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/kTStFRAp99E_seg0_f3.jpg
+v_kTStFRAp99E,kTStFRAp99E,0,0.0,2.04,We see two girls one sitting the other bending over.,4,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/kTStFRAp99E_seg0_f4.jpg
+v_kTStFRAp99E,kTStFRAp99E,1,1.99,3.49, The bending girl stands up.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/kTStFRAp99E_seg1_f0.jpg
+v_kTStFRAp99E,kTStFRAp99E,1,1.99,3.49, The bending girl stands up.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/kTStFRAp99E_seg1_f1.jpg
+v_kTStFRAp99E,kTStFRAp99E,1,1.99,3.49, The bending girl stands up.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/kTStFRAp99E_seg1_f2.jpg
+v_kTStFRAp99E,kTStFRAp99E,1,1.99,3.49, The bending girl stands up.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/kTStFRAp99E_seg1_f3.jpg
+v_kTStFRAp99E,kTStFRAp99E,1,1.99,3.49, The bending girl stands up.,4,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/kTStFRAp99E_seg1_f4.jpg
+v_kTStFRAp99E,kTStFRAp99E,2,3.49,10.75, We see a person painting the sitting girls toe nails.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/kTStFRAp99E_seg2_f0.jpg
+v_kTStFRAp99E,kTStFRAp99E,2,3.49,10.75, We see a person painting the sitting girls toe nails.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/kTStFRAp99E_seg2_f1.jpg
+v_kTStFRAp99E,kTStFRAp99E,2,3.49,10.75, We see a person painting the sitting girls toe nails.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/kTStFRAp99E_seg2_f2.jpg
+v_kTStFRAp99E,kTStFRAp99E,2,3.49,10.75, We see a person painting the sitting girls toe nails.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/kTStFRAp99E_seg2_f3.jpg
+v_PPXrVuZAb74,PPXrVuZAb74,0,0.0,3.48,A woman is closing her eyes standing on a diving board.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/PPXrVuZAb74_seg0_f0.jpg
+v_PPXrVuZAb74,PPXrVuZAb74,0,0.0,3.48,A woman is closing her eyes standing on a diving board.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/PPXrVuZAb74_seg0_f1.jpg
+v_PPXrVuZAb74,PPXrVuZAb74,0,0.0,3.48,A woman is closing her eyes standing on a diving board.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/PPXrVuZAb74_seg0_f2.jpg
+v_PPXrVuZAb74,PPXrVuZAb74,0,0.0,3.48,A woman is closing her eyes standing on a diving board.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/PPXrVuZAb74_seg0_f3.jpg
+v_PPXrVuZAb74,PPXrVuZAb74,0,0.0,3.48,A woman is closing her eyes standing on a diving board.,4,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/PPXrVuZAb74_seg0_f4.jpg
+v_PPXrVuZAb74,PPXrVuZAb74,1,3.43,7.46, She does a flip and dives into the water.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/PPXrVuZAb74_seg1_f0.jpg
+v_PPXrVuZAb74,PPXrVuZAb74,1,3.43,7.46, She does a flip and dives into the water.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/PPXrVuZAb74_seg1_f1.jpg
+v_PPXrVuZAb74,PPXrVuZAb74,1,3.43,7.46, She does a flip and dives into the water.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/PPXrVuZAb74_seg1_f2.jpg
+v_PPXrVuZAb74,PPXrVuZAb74,1,3.43,7.46, She does a flip and dives into the water.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/PPXrVuZAb74_seg1_f3.jpg
+v_PPXrVuZAb74,PPXrVuZAb74,1,3.43,7.46, She does a flip and dives into the water.,4,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/PPXrVuZAb74_seg1_f4.jpg
+v_PPXrVuZAb74,PPXrVuZAb74,2,7.66,10.08, She swims to the surface.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/PPXrVuZAb74_seg2_f0.jpg
+v_PPXrVuZAb74,PPXrVuZAb74,2,7.66,10.08, She swims to the surface.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/PPXrVuZAb74_seg2_f1.jpg
+v_PPXrVuZAb74,PPXrVuZAb74,2,7.66,10.08, She swims to the surface.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/PPXrVuZAb74_seg2_f2.jpg
+v_PPXrVuZAb74,PPXrVuZAb74,2,7.66,10.08, She swims to the surface.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/PPXrVuZAb74_seg2_f3.jpg
+v_a42c_maArv4,a42c_maArv4,0,0.0,3.21,The camera shakes on an image of an indoor volleyball court.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/a42c_maArv4_seg0_f0.jpg
+v_a42c_maArv4,a42c_maArv4,0,0.0,3.21,The camera shakes on an image of an indoor volleyball court.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/a42c_maArv4_seg0_f1.jpg
+v_a42c_maArv4,a42c_maArv4,0,0.0,3.21,The camera shakes on an image of an indoor volleyball court.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/a42c_maArv4_seg0_f2.jpg
+v_a42c_maArv4,a42c_maArv4,0,0.0,3.21,The camera shakes on an image of an indoor volleyball court.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/a42c_maArv4_seg0_f3.jpg
+v_a42c_maArv4,a42c_maArv4,0,0.0,3.21,The camera shakes on an image of an indoor volleyball court.,4,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/a42c_maArv4_seg0_f4.jpg
+v_a42c_maArv4,a42c_maArv4,1,3.27,6.21, A woman races back from the net to hit the incoming volleyball.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/a42c_maArv4_seg1_f0.jpg
+v_a42c_maArv4,a42c_maArv4,1,3.27,6.21, A woman races back from the net to hit the incoming volleyball.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/a42c_maArv4_seg1_f1.jpg
+v_a42c_maArv4,a42c_maArv4,1,3.27,6.21, A woman races back from the net to hit the incoming volleyball.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/a42c_maArv4_seg1_f2.jpg
+v_a42c_maArv4,a42c_maArv4,1,3.27,6.21, A woman races back from the net to hit the incoming volleyball.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/a42c_maArv4_seg1_f3.jpg
+v_a42c_maArv4,a42c_maArv4,1,3.27,6.21, A woman races back from the net to hit the incoming volleyball.,4,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/a42c_maArv4_seg1_f4.jpg
+v_a42c_maArv4,a42c_maArv4,2,6.26,10.89, A fellow team member also hits the ball and sends it across the net.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/a42c_maArv4_seg2_f0.jpg
+v_a42c_maArv4,a42c_maArv4,2,6.26,10.89, A fellow team member also hits the ball and sends it across the net.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/a42c_maArv4_seg2_f1.jpg
+v_a42c_maArv4,a42c_maArv4,2,6.26,10.89, A fellow team member also hits the ball and sends it across the net.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/a42c_maArv4_seg2_f2.jpg
+v_a42c_maArv4,a42c_maArv4,2,6.26,10.89, A fellow team member also hits the ball and sends it across the net.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/a42c_maArv4_seg2_f3.jpg
+v_zqXJkZgKmSk,zqXJkZgKmSk,0,0.0,2.56,A ball flies through he air on a baseball field.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/zqXJkZgKmSk_seg0_f0.jpg
+v_zqXJkZgKmSk,zqXJkZgKmSk,0,0.0,2.56,A ball flies through he air on a baseball field.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/zqXJkZgKmSk_seg0_f1.jpg
+v_zqXJkZgKmSk,zqXJkZgKmSk,0,0.0,2.56,A ball flies through he air on a baseball field.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/zqXJkZgKmSk_seg0_f2.jpg
+v_zqXJkZgKmSk,zqXJkZgKmSk,0,0.0,2.56,A ball flies through he air on a baseball field.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/zqXJkZgKmSk_seg0_f3.jpg
+v_zqXJkZgKmSk,zqXJkZgKmSk,0,0.0,2.56,A ball flies through he air on a baseball field.,4,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/zqXJkZgKmSk_seg0_f4.jpg
+v_zqXJkZgKmSk,zqXJkZgKmSk,1,1.93,5.8, The person with the camera takes off running.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/zqXJkZgKmSk_seg1_f0.jpg
+v_zqXJkZgKmSk,zqXJkZgKmSk,1,1.93,5.8, The person with the camera takes off running.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/zqXJkZgKmSk_seg1_f1.jpg
+v_zqXJkZgKmSk,zqXJkZgKmSk,1,1.93,5.8, The person with the camera takes off running.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/zqXJkZgKmSk_seg1_f2.jpg
+v_zqXJkZgKmSk,zqXJkZgKmSk,1,1.93,5.8, The person with the camera takes off running.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/zqXJkZgKmSk_seg1_f3.jpg
+v_zqXJkZgKmSk,zqXJkZgKmSk,1,1.93,5.8, The person with the camera takes off running.,4,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/zqXJkZgKmSk_seg1_f4.jpg
+v_zqXJkZgKmSk,zqXJkZgKmSk,2,5.9,7.42, The runner stops on the home base and turns around.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/zqXJkZgKmSk_seg2_f0.jpg
+v_zqXJkZgKmSk,zqXJkZgKmSk,2,5.9,7.42, The runner stops on the home base and turns around.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/zqXJkZgKmSk_seg2_f1.jpg
+v_zqXJkZgKmSk,zqXJkZgKmSk,2,5.9,7.42, The runner stops on the home base and turns around.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/zqXJkZgKmSk_seg2_f2.jpg
+v_zqXJkZgKmSk,zqXJkZgKmSk,2,5.9,7.42, The runner stops on the home base and turns around.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/zqXJkZgKmSk_seg2_f3.jpg
+v_zqXJkZgKmSk,zqXJkZgKmSk,2,5.9,7.42, The runner stops on the home base and turns around.,4,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/zqXJkZgKmSk_seg2_f4.jpg
+v_zqXJkZgKmSk,zqXJkZgKmSk,3,7.47,10.45, We see the people at the back of the field.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/zqXJkZgKmSk_seg3_f0.jpg
+v_zqXJkZgKmSk,zqXJkZgKmSk,3,7.47,10.45, We see the people at the back of the field.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/zqXJkZgKmSk_seg3_f1.jpg
+v_zqXJkZgKmSk,zqXJkZgKmSk,3,7.47,10.45, We see the people at the back of the field.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/zqXJkZgKmSk_seg3_f2.jpg
+v_zqXJkZgKmSk,zqXJkZgKmSk,3,7.47,10.45, We see the people at the back of the field.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/zqXJkZgKmSk_seg3_f3.jpg
+v_3nvVkcxxaJ4,3nvVkcxxaJ4,0,0.0,10.96,A man in black is sitting and playing at a piano while a man in red is standing near drums.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/3nvVkcxxaJ4_seg0_f0.jpg
+v_3nvVkcxxaJ4,3nvVkcxxaJ4,0,0.0,10.96,A man in black is sitting and playing at a piano while a man in red is standing near drums.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/3nvVkcxxaJ4_seg0_f1.jpg
+v_3nvVkcxxaJ4,3nvVkcxxaJ4,0,0.0,10.96,A man in black is sitting and playing at a piano while a man in red is standing near drums.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/3nvVkcxxaJ4_seg0_f2.jpg
+v_3nvVkcxxaJ4,3nvVkcxxaJ4,0,0.0,10.96,A man in black is sitting and playing at a piano while a man in red is standing near drums.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/3nvVkcxxaJ4_seg0_f3.jpg
+v_3nvVkcxxaJ4,3nvVkcxxaJ4,1,3.34,9.48," As the man in black plays, the man in red is rolling up a wire.",0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/3nvVkcxxaJ4_seg1_f0.jpg
+v_3nvVkcxxaJ4,3nvVkcxxaJ4,1,3.34,9.48," As the man in black plays, the man in red is rolling up a wire.",1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/3nvVkcxxaJ4_seg1_f1.jpg
+v_3nvVkcxxaJ4,3nvVkcxxaJ4,1,3.34,9.48," As the man in black plays, the man in red is rolling up a wire.",2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/3nvVkcxxaJ4_seg1_f2.jpg
+v_3nvVkcxxaJ4,3nvVkcxxaJ4,1,3.34,9.48," As the man in black plays, the man in red is rolling up a wire.",3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/3nvVkcxxaJ4_seg1_f3.jpg
+v_3nvVkcxxaJ4,3nvVkcxxaJ4,1,3.34,9.48," As the man in black plays, the man in red is rolling up a wire.",4,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/3nvVkcxxaJ4_seg1_f4.jpg
+v_3nvVkcxxaJ4,3nvVkcxxaJ4,2,4.93,9.26, The man in red begins bobbing his head to the beat of the piano music.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/3nvVkcxxaJ4_seg2_f0.jpg
+v_3nvVkcxxaJ4,3nvVkcxxaJ4,2,4.93,9.26, The man in red begins bobbing his head to the beat of the piano music.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/3nvVkcxxaJ4_seg2_f1.jpg
+v_3nvVkcxxaJ4,3nvVkcxxaJ4,2,4.93,9.26, The man in red begins bobbing his head to the beat of the piano music.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/3nvVkcxxaJ4_seg2_f2.jpg
+v_3nvVkcxxaJ4,3nvVkcxxaJ4,2,4.93,9.26, The man in red begins bobbing his head to the beat of the piano music.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/3nvVkcxxaJ4_seg2_f3.jpg
+v_3nvVkcxxaJ4,3nvVkcxxaJ4,2,4.93,9.26, The man in red begins bobbing his head to the beat of the piano music.,4,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/3nvVkcxxaJ4_seg2_f4.jpg
+v_3nvVkcxxaJ4,3nvVkcxxaJ4,3,8.93,10.96, The man then places the wire down.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/3nvVkcxxaJ4_seg3_f0.jpg
+v_3nvVkcxxaJ4,3nvVkcxxaJ4,3,8.93,10.96, The man then places the wire down.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/3nvVkcxxaJ4_seg3_f1.jpg
+v_3nvVkcxxaJ4,3nvVkcxxaJ4,3,8.93,10.96, The man then places the wire down.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/3nvVkcxxaJ4_seg3_f2.jpg
+v_3nvVkcxxaJ4,3nvVkcxxaJ4,3,8.93,10.96, The man then places the wire down.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/3nvVkcxxaJ4_seg3_f3.jpg
+v_2ErgL7-MXHw,2ErgL7-MXHw,0,0.0,0.33,Two men stands on front a tall hedge holding trimmers.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/2ErgL7-MXHw_seg0_f0.jpg
+v_2ErgL7-MXHw,2ErgL7-MXHw,0,0.0,0.33,Two men stands on front a tall hedge holding trimmers.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/2ErgL7-MXHw_seg0_f1.jpg
+v_2ErgL7-MXHw,2ErgL7-MXHw,0,0.0,0.33,Two men stands on front a tall hedge holding trimmers.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/2ErgL7-MXHw_seg0_f2.jpg
+v_2ErgL7-MXHw,2ErgL7-MXHw,0,0.0,0.33,Two men stands on front a tall hedge holding trimmers.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/2ErgL7-MXHw_seg0_f3.jpg
+v_2ErgL7-MXHw,2ErgL7-MXHw,0,0.0,0.33,Two men stands on front a tall hedge holding trimmers.,4,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/2ErgL7-MXHw_seg0_f4.jpg
+v_2ErgL7-MXHw,2ErgL7-MXHw,1,0.33,10.98, The men cuts the top of the hedge.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/2ErgL7-MXHw_seg1_f0.jpg
+v_2ErgL7-MXHw,2ErgL7-MXHw,1,0.33,10.98, The men cuts the top of the hedge.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/2ErgL7-MXHw_seg1_f1.jpg
+v_2ErgL7-MXHw,2ErgL7-MXHw,1,0.33,10.98, The men cuts the top of the hedge.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/2ErgL7-MXHw_seg1_f2.jpg
+v_2ErgL7-MXHw,2ErgL7-MXHw,1,0.33,10.98, The men cuts the top of the hedge.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/2ErgL7-MXHw_seg1_f3.jpg
+v_2ErgL7-MXHw,2ErgL7-MXHw,1,0.33,10.98, The men cuts the top of the hedge.,4,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/2ErgL7-MXHw_seg1_f4.jpg
+v_2ErgL7-MXHw,2ErgL7-MXHw,2,8.43,10.59, Leaves falls from the top of the hedge.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/2ErgL7-MXHw_seg2_f0.jpg
+v_2ErgL7-MXHw,2ErgL7-MXHw,2,8.43,10.59, Leaves falls from the top of the hedge.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/2ErgL7-MXHw_seg2_f1.jpg
+v_2ErgL7-MXHw,2ErgL7-MXHw,2,8.43,10.59, Leaves falls from the top of the hedge.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/2ErgL7-MXHw_seg2_f2.jpg
+v_2ErgL7-MXHw,2ErgL7-MXHw,2,8.43,10.59, Leaves falls from the top of the hedge.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/2ErgL7-MXHw_seg2_f3.jpg
+v_2ErgL7-MXHw,2ErgL7-MXHw,2,8.43,10.59, Leaves falls from the top of the hedge.,4,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/2ErgL7-MXHw_seg2_f4.jpg
+v_yKdvz5dgro4,yKdvz5dgro4,0,0.69,10.54,A young man dry a pot lid while dancing.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/yKdvz5dgro4_seg0_f0.jpg
+v_yKdvz5dgro4,yKdvz5dgro4,0,0.69,10.54,A young man dry a pot lid while dancing.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/yKdvz5dgro4_seg0_f1.jpg
+v_yKdvz5dgro4,yKdvz5dgro4,0,0.69,10.54,A young man dry a pot lid while dancing.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/yKdvz5dgro4_seg0_f2.jpg
+v_yKdvz5dgro4,yKdvz5dgro4,0,0.69,10.54,A young man dry a pot lid while dancing.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/yKdvz5dgro4_seg0_f3.jpg
+v_yKdvz5dgro4,yKdvz5dgro4,1,0.0,10.54," Also, a teen wash a cup of steel and dancing.",0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/yKdvz5dgro4_seg1_f0.jpg
+v_yKdvz5dgro4,yKdvz5dgro4,1,0.0,10.54," Also, a teen wash a cup of steel and dancing.",1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/yKdvz5dgro4_seg1_f1.jpg
+v_yKdvz5dgro4,yKdvz5dgro4,1,0.0,10.54," Also, a teen wash a cup of steel and dancing.",2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/yKdvz5dgro4_seg1_f2.jpg
+v_yKdvz5dgro4,yKdvz5dgro4,1,0.0,10.54," Also, a teen wash a cup of steel and dancing.",3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/yKdvz5dgro4_seg1_f3.jpg
+v_yKdvz5dgro4,yKdvz5dgro4,2,0.42,3.85, A woman enters and then leave the kitchen.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/yKdvz5dgro4_seg2_f0.jpg
+v_yKdvz5dgro4,yKdvz5dgro4,2,0.42,3.85, A woman enters and then leave the kitchen.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/yKdvz5dgro4_seg2_f1.jpg
+v_yKdvz5dgro4,yKdvz5dgro4,2,0.42,3.85, A woman enters and then leave the kitchen.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/yKdvz5dgro4_seg2_f2.jpg
+v_yKdvz5dgro4,yKdvz5dgro4,2,0.42,3.85, A woman enters and then leave the kitchen.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/yKdvz5dgro4_seg2_f3.jpg
+v_yKdvz5dgro4,yKdvz5dgro4,2,0.42,3.85, A woman enters and then leave the kitchen.,4,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/yKdvz5dgro4_seg2_f4.jpg
+v_jIYRVlrXJgc,jIYRVlrXJgc,0,0.0,9.83,Two players are playing a game of racket ball.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/jIYRVlrXJgc_seg0_f0.jpg
+v_jIYRVlrXJgc,jIYRVlrXJgc,0,0.0,9.83,Two players are playing a game of racket ball.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/jIYRVlrXJgc_seg0_f1.jpg
+v_jIYRVlrXJgc,jIYRVlrXJgc,0,0.0,9.83,Two players are playing a game of racket ball.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/jIYRVlrXJgc_seg0_f2.jpg
+v_jIYRVlrXJgc,jIYRVlrXJgc,0,0.0,9.83,Two players are playing a game of racket ball.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/jIYRVlrXJgc_seg0_f3.jpg
+v_jIYRVlrXJgc,jIYRVlrXJgc,0,0.0,9.83,Two players are playing a game of racket ball.,4,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/jIYRVlrXJgc_seg0_f4.jpg
+v_jIYRVlrXJgc,jIYRVlrXJgc,1,1.71,2.91, One female takes a swing at the ball and hits it.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/jIYRVlrXJgc_seg1_f0.jpg
+v_jIYRVlrXJgc,jIYRVlrXJgc,1,1.71,2.91, One female takes a swing at the ball and hits it.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/jIYRVlrXJgc_seg1_f1.jpg
+v_jIYRVlrXJgc,jIYRVlrXJgc,1,1.71,2.91, One female takes a swing at the ball and hits it.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/jIYRVlrXJgc_seg1_f2.jpg
+v_jIYRVlrXJgc,jIYRVlrXJgc,1,1.71,2.91, One female takes a swing at the ball and hits it.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/jIYRVlrXJgc_seg1_f3.jpg
+v_jIYRVlrXJgc,jIYRVlrXJgc,1,1.71,2.91, One female takes a swing at the ball and hits it.,4,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/jIYRVlrXJgc_seg1_f4.jpg
+v_jIYRVlrXJgc,jIYRVlrXJgc,2,3.06,4.66, The other female takes a swing at the ball and misses and hits herself instead.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/jIYRVlrXJgc_seg2_f0.jpg
+v_jIYRVlrXJgc,jIYRVlrXJgc,2,3.06,4.66, The other female takes a swing at the ball and misses and hits herself instead.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/jIYRVlrXJgc_seg2_f1.jpg
+v_jIYRVlrXJgc,jIYRVlrXJgc,2,3.06,4.66, The other female takes a swing at the ball and misses and hits herself instead.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/jIYRVlrXJgc_seg2_f2.jpg
+v_jIYRVlrXJgc,jIYRVlrXJgc,2,3.06,4.66, The other female takes a swing at the ball and misses and hits herself instead.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/jIYRVlrXJgc_seg2_f3.jpg
+v_jIYRVlrXJgc,jIYRVlrXJgc,2,3.06,4.66, The other female takes a swing at the ball and misses and hits herself instead.,4,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/jIYRVlrXJgc_seg2_f4.jpg
+v_jIYRVlrXJgc,jIYRVlrXJgc,3,4.36,10.03, She then sits down on the floor while the other person comes to turn the camera off.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/jIYRVlrXJgc_seg3_f0.jpg
+v_jIYRVlrXJgc,jIYRVlrXJgc,3,4.36,10.03, She then sits down on the floor while the other person comes to turn the camera off.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/jIYRVlrXJgc_seg3_f1.jpg
+v_jIYRVlrXJgc,jIYRVlrXJgc,3,4.36,10.03, She then sits down on the floor while the other person comes to turn the camera off.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/jIYRVlrXJgc_seg3_f2.jpg
+v_jIYRVlrXJgc,jIYRVlrXJgc,3,4.36,10.03, She then sits down on the floor while the other person comes to turn the camera off.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/jIYRVlrXJgc_seg3_f3.jpg
+v_vMYPNyBR3d0,vMYPNyBR3d0,0,0.0,12.19,We see three men on a boat in a lake.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/vMYPNyBR3d0_seg0_f0.jpg
+v_vMYPNyBR3d0,vMYPNyBR3d0,0,0.0,12.19,We see three men on a boat in a lake.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/vMYPNyBR3d0_seg0_f1.jpg
+v_vMYPNyBR3d0,vMYPNyBR3d0,0,0.0,12.19,We see three men on a boat in a lake.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/vMYPNyBR3d0_seg0_f2.jpg
+v_vMYPNyBR3d0,vMYPNyBR3d0,0,0.0,12.19,We see three men on a boat in a lake.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/vMYPNyBR3d0_seg0_f3.jpg
+v_vMYPNyBR3d0,vMYPNyBR3d0,1,8.05,11.4, The left man holds his nears near his chest.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/vMYPNyBR3d0_seg1_f0.jpg
+v_vMYPNyBR3d0,vMYPNyBR3d0,1,8.05,11.4, The left man holds his nears near his chest.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/vMYPNyBR3d0_seg1_f1.jpg
+v_vMYPNyBR3d0,vMYPNyBR3d0,1,8.05,11.4, The left man holds his nears near his chest.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/vMYPNyBR3d0_seg1_f2.jpg
+v_vMYPNyBR3d0,vMYPNyBR3d0,1,8.05,11.4, The left man holds his nears near his chest.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/vMYPNyBR3d0_seg1_f3.jpg
+v_vMYPNyBR3d0,vMYPNyBR3d0,1,8.05,11.4, The left man holds his nears near his chest.,4,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/vMYPNyBR3d0_seg1_f4.jpg
+v_vMYPNyBR3d0,vMYPNyBR3d0,2,9.02,12.19, A man acts weird and sprays himself.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/vMYPNyBR3d0_seg2_f0.jpg
+v_vMYPNyBR3d0,vMYPNyBR3d0,2,9.02,12.19, A man acts weird and sprays himself.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/vMYPNyBR3d0_seg2_f1.jpg
+v_vMYPNyBR3d0,vMYPNyBR3d0,2,9.02,12.19, A man acts weird and sprays himself.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/vMYPNyBR3d0_seg2_f2.jpg
+v_vMYPNyBR3d0,vMYPNyBR3d0,2,9.02,12.19, A man acts weird and sprays himself.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/vMYPNyBR3d0_seg2_f3.jpg
+v_5BVcwR8hEo0,5BVcwR8hEo0,0,0.0,0.24,A boy serves a tennis ball.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/5BVcwR8hEo0_seg0_f0.jpg
+v_5BVcwR8hEo0,5BVcwR8hEo0,0,0.0,0.24,A boy serves a tennis ball.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/5BVcwR8hEo0_seg0_f1.jpg
+v_5BVcwR8hEo0,5BVcwR8hEo0,0,0.0,0.24,A boy serves a tennis ball.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/5BVcwR8hEo0_seg0_f2.jpg
+v_5BVcwR8hEo0,5BVcwR8hEo0,0,0.0,0.24,A boy serves a tennis ball.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/5BVcwR8hEo0_seg0_f3.jpg
+v_5BVcwR8hEo0,5BVcwR8hEo0,0,0.0,0.24,A boy serves a tennis ball.,4,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/5BVcwR8hEo0_seg0_f4.jpg
+v_5BVcwR8hEo0,5BVcwR8hEo0,1,0.42,10.03, He then serves two more.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/5BVcwR8hEo0_seg1_f0.jpg
+v_5BVcwR8hEo0,5BVcwR8hEo0,1,0.42,10.03, He then serves two more.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/5BVcwR8hEo0_seg1_f1.jpg
+v_5BVcwR8hEo0,5BVcwR8hEo0,1,0.42,10.03, He then serves two more.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/5BVcwR8hEo0_seg1_f2.jpg
+v_5BVcwR8hEo0,5BVcwR8hEo0,1,0.42,10.03, He then serves two more.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/5BVcwR8hEo0_seg1_f3.jpg
+v_5BVcwR8hEo0,5BVcwR8hEo0,1,0.42,10.03, He then serves two more.,4,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/5BVcwR8hEo0_seg1_f4.jpg
+v_5BVcwR8hEo0,5BVcwR8hEo0,2,10.5,11.94, The boy turns and walks away.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/5BVcwR8hEo0_seg2_f0.jpg
+v_5BVcwR8hEo0,5BVcwR8hEo0,2,10.5,11.94, The boy turns and walks away.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/5BVcwR8hEo0_seg2_f1.jpg
+v_5BVcwR8hEo0,5BVcwR8hEo0,2,10.5,11.94, The boy turns and walks away.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/5BVcwR8hEo0_seg2_f2.jpg
+v_5BVcwR8hEo0,5BVcwR8hEo0,2,10.5,11.94, The boy turns and walks away.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/5BVcwR8hEo0_seg2_f3.jpg
+v_vbWdGj1sfO8,vbWdGj1sfO8,0,0.0,2.1,A female is laying on her back exercising inside of a gym.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/vbWdGj1sfO8_seg0_f0.jpg
+v_vbWdGj1sfO8,vbWdGj1sfO8,0,0.0,2.1,A female is laying on her back exercising inside of a gym.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/vbWdGj1sfO8_seg0_f1.jpg
+v_vbWdGj1sfO8,vbWdGj1sfO8,0,0.0,2.1,A female is laying on her back exercising inside of a gym.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/vbWdGj1sfO8_seg0_f2.jpg
+v_vbWdGj1sfO8,vbWdGj1sfO8,0,0.0,2.1,A female is laying on her back exercising inside of a gym.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/vbWdGj1sfO8_seg0_f3.jpg
+v_vbWdGj1sfO8,vbWdGj1sfO8,0,0.0,2.1,A female is laying on her back exercising inside of a gym.,4,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/vbWdGj1sfO8_seg0_f4.jpg
+v_vbWdGj1sfO8,vbWdGj1sfO8,1,2.1,4.15, She is wearing black and pink and just looks very comfortable while she works out.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/vbWdGj1sfO8_seg1_f0.jpg
+v_vbWdGj1sfO8,vbWdGj1sfO8,1,2.1,4.15, She is wearing black and pink and just looks very comfortable while she works out.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/vbWdGj1sfO8_seg1_f1.jpg
+v_vbWdGj1sfO8,vbWdGj1sfO8,1,2.1,4.15, She is wearing black and pink and just looks very comfortable while she works out.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/vbWdGj1sfO8_seg1_f2.jpg
+v_vbWdGj1sfO8,vbWdGj1sfO8,1,2.1,4.15, She is wearing black and pink and just looks very comfortable while she works out.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/vbWdGj1sfO8_seg1_f3.jpg
+v_vbWdGj1sfO8,vbWdGj1sfO8,1,2.1,4.15, She is wearing black and pink and just looks very comfortable while she works out.,4,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/vbWdGj1sfO8_seg1_f4.jpg
+v_vbWdGj1sfO8,vbWdGj1sfO8,2,4.1,7.14, She brings her arms up and her legs up to the center of her body.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/vbWdGj1sfO8_seg2_f0.jpg
+v_vbWdGj1sfO8,vbWdGj1sfO8,2,4.1,7.14, She brings her arms up and her legs up to the center of her body.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/vbWdGj1sfO8_seg2_f1.jpg
+v_vbWdGj1sfO8,vbWdGj1sfO8,2,4.1,7.14, She brings her arms up and her legs up to the center of her body.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/vbWdGj1sfO8_seg2_f2.jpg
+v_vbWdGj1sfO8,vbWdGj1sfO8,2,4.1,7.14, She brings her arms up and her legs up to the center of her body.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/vbWdGj1sfO8_seg2_f3.jpg
+v_vbWdGj1sfO8,vbWdGj1sfO8,2,4.1,7.14, She brings her arms up and her legs up to the center of her body.,4,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/vbWdGj1sfO8_seg2_f4.jpg
+v_vbWdGj1sfO8,vbWdGj1sfO8,3,7.14,11.08, She does that repeatedly for a little while.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/vbWdGj1sfO8_seg3_f0.jpg
+v_vbWdGj1sfO8,vbWdGj1sfO8,3,7.14,11.08, She does that repeatedly for a little while.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/vbWdGj1sfO8_seg3_f1.jpg
+v_vbWdGj1sfO8,vbWdGj1sfO8,3,7.14,11.08, She does that repeatedly for a little while.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/vbWdGj1sfO8_seg3_f2.jpg
+v_vbWdGj1sfO8,vbWdGj1sfO8,3,7.14,11.08, She does that repeatedly for a little while.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/vbWdGj1sfO8_seg3_f3.jpg
+v_UCndppz9rWc,UCndppz9rWc,0,0.0,11.52,manis wearing a white shirt and is walking in a green grass carrying a lawnmower.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/UCndppz9rWc_seg0_f0.jpg
+v_UCndppz9rWc,UCndppz9rWc,0,0.0,11.52,manis wearing a white shirt and is walking in a green grass carrying a lawnmower.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/UCndppz9rWc_seg0_f1.jpg
+v_UCndppz9rWc,UCndppz9rWc,0,0.0,11.52,manis wearing a white shirt and is walking in a green grass carrying a lawnmower.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/UCndppz9rWc_seg0_f2.jpg
+v_UCndppz9rWc,UCndppz9rWc,0,0.0,11.52,manis wearing a white shirt and is walking in a green grass carrying a lawnmower.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/UCndppz9rWc_seg0_f3.jpg
+v_UCndppz9rWc,UCndppz9rWc,1,0.0,4.2,  kid is standing in the field watching the man with the lawnmower.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/UCndppz9rWc_seg1_f0.jpg
+v_UCndppz9rWc,UCndppz9rWc,1,0.0,4.2,  kid is standing in the field watching the man with the lawnmower.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/UCndppz9rWc_seg1_f1.jpg
+v_UCndppz9rWc,UCndppz9rWc,1,0.0,4.2,  kid is standing in the field watching the man with the lawnmower.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/UCndppz9rWc_seg1_f2.jpg
+v_UCndppz9rWc,UCndppz9rWc,1,0.0,4.2,  kid is standing in the field watching the man with the lawnmower.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/UCndppz9rWc_seg1_f3.jpg
+v_UCndppz9rWc,UCndppz9rWc,1,0.0,4.2,  kid is standing in the field watching the man with the lawnmower.,4,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/UCndppz9rWc_seg1_f4.jpg
+v_UCndppz9rWc,UCndppz9rWc,2,0.0,3.69, man stands and extends the hand to hold the kid.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/UCndppz9rWc_seg2_f0.jpg
+v_UCndppz9rWc,UCndppz9rWc,2,0.0,3.69, man stands and extends the hand to hold the kid.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/UCndppz9rWc_seg2_f1.jpg
+v_UCndppz9rWc,UCndppz9rWc,2,0.0,3.69, man stands and extends the hand to hold the kid.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/UCndppz9rWc_seg2_f2.jpg
+v_UCndppz9rWc,UCndppz9rWc,2,0.0,3.69, man stands and extends the hand to hold the kid.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/UCndppz9rWc_seg2_f3.jpg
+v_UCndppz9rWc,UCndppz9rWc,2,0.0,3.69, man stands and extends the hand to hold the kid.,4,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/UCndppz9rWc_seg2_f4.jpg
+v_ztnt2EYuK3I,ztnt2EYuK3I,0,0.0,12.33,A person in a black coat is scraping ice off of a window.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/ztnt2EYuK3I_seg0_f0.jpg
+v_ztnt2EYuK3I,ztnt2EYuK3I,0,0.0,12.33,A person in a black coat is scraping ice off of a window.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/ztnt2EYuK3I_seg0_f1.jpg
+v_ztnt2EYuK3I,ztnt2EYuK3I,0,0.0,12.33,A person in a black coat is scraping ice off of a window.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/ztnt2EYuK3I_seg0_f2.jpg
+v_ztnt2EYuK3I,ztnt2EYuK3I,0,0.0,12.33,A person in a black coat is scraping ice off of a window.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/ztnt2EYuK3I_seg0_f3.jpg
+v_ztnt2EYuK3I,ztnt2EYuK3I,1,4.93,11.34, A kid in a yellow coat is smiling at the camera.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/ztnt2EYuK3I_seg1_f0.jpg
+v_ztnt2EYuK3I,ztnt2EYuK3I,1,4.93,11.34, A kid in a yellow coat is smiling at the camera.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/ztnt2EYuK3I_seg1_f1.jpg
+v_ztnt2EYuK3I,ztnt2EYuK3I,1,4.93,11.34, A kid in a yellow coat is smiling at the camera.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/ztnt2EYuK3I_seg1_f2.jpg
+v_ztnt2EYuK3I,ztnt2EYuK3I,1,4.93,11.34, A kid in a yellow coat is smiling at the camera.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/ztnt2EYuK3I_seg1_f3.jpg
+v_ztnt2EYuK3I,ztnt2EYuK3I,1,4.93,11.34, A kid in a yellow coat is smiling at the camera.,4,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/ztnt2EYuK3I_seg1_f4.jpg
+v_ztnt2EYuK3I,ztnt2EYuK3I,2,11.1,12.33, A boy in a green jacket is scraping the ice off of another car.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/ztnt2EYuK3I_seg2_f0.jpg
+v_ztnt2EYuK3I,ztnt2EYuK3I,2,11.1,12.33, A boy in a green jacket is scraping the ice off of another car.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/ztnt2EYuK3I_seg2_f1.jpg
+v_ztnt2EYuK3I,ztnt2EYuK3I,2,11.1,12.33, A boy in a green jacket is scraping the ice off of another car.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/ztnt2EYuK3I_seg2_f2.jpg
+v_ztnt2EYuK3I,ztnt2EYuK3I,2,11.1,12.33, A boy in a green jacket is scraping the ice off of another car.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/ztnt2EYuK3I_seg2_f3.jpg
+v_MAZlsi4Bon8,MAZlsi4Bon8,0,0.0,10.61,A young boy is at a party holding a stick and hitting a pinata.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/MAZlsi4Bon8_seg0_f0.jpg
+v_MAZlsi4Bon8,MAZlsi4Bon8,0,0.0,10.61,A young boy is at a party holding a stick and hitting a pinata.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/MAZlsi4Bon8_seg0_f1.jpg
+v_MAZlsi4Bon8,MAZlsi4Bon8,0,0.0,10.61,A young boy is at a party holding a stick and hitting a pinata.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/MAZlsi4Bon8_seg0_f2.jpg
+v_MAZlsi4Bon8,MAZlsi4Bon8,0,0.0,10.61,A young boy is at a party holding a stick and hitting a pinata.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/MAZlsi4Bon8_seg0_f3.jpg
+v_MAZlsi4Bon8,MAZlsi4Bon8,1,8.86,10.61, When the boy is done hitting it an adult walks towards the pinata.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/MAZlsi4Bon8_seg1_f0.jpg
+v_MAZlsi4Bon8,MAZlsi4Bon8,1,8.86,10.61, When the boy is done hitting it an adult walks towards the pinata.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/MAZlsi4Bon8_seg1_f1.jpg
+v_MAZlsi4Bon8,MAZlsi4Bon8,1,8.86,10.61, When the boy is done hitting it an adult walks towards the pinata.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/MAZlsi4Bon8_seg1_f2.jpg
+v_MAZlsi4Bon8,MAZlsi4Bon8,1,8.86,10.61, When the boy is done hitting it an adult walks towards the pinata.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/MAZlsi4Bon8_seg1_f3.jpg
+v_MAZlsi4Bon8,MAZlsi4Bon8,2,9.76,10.61, Another child standing with the adult also begins walking towards the pinata.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/MAZlsi4Bon8_seg2_f0.jpg
+v_MAZlsi4Bon8,MAZlsi4Bon8,2,9.76,10.61, Another child standing with the adult also begins walking towards the pinata.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/MAZlsi4Bon8_seg2_f1.jpg
+v_MAZlsi4Bon8,MAZlsi4Bon8,2,9.76,10.61, Another child standing with the adult also begins walking towards the pinata.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/MAZlsi4Bon8_seg2_f2.jpg
+v_MAZlsi4Bon8,MAZlsi4Bon8,2,9.76,10.61, Another child standing with the adult also begins walking towards the pinata.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/MAZlsi4Bon8_seg2_f3.jpg
+v_cKFARm4dsws,cKFARm4dsws,0,0.0,1.17,A little boy is getting on the swinging closing his little safety guard.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/cKFARm4dsws_seg0_f0.jpg
+v_cKFARm4dsws,cKFARm4dsws,0,0.0,1.17,A little boy is getting on the swinging closing his little safety guard.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/cKFARm4dsws_seg0_f1.jpg
+v_cKFARm4dsws,cKFARm4dsws,0,0.0,1.17,A little boy is getting on the swinging closing his little safety guard.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/cKFARm4dsws_seg0_f2.jpg
+v_cKFARm4dsws,cKFARm4dsws,0,0.0,1.17,A little boy is getting on the swinging closing his little safety guard.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/cKFARm4dsws_seg0_f3.jpg
+v_cKFARm4dsws,cKFARm4dsws,0,0.0,1.17,A little boy is getting on the swinging closing his little safety guard.,4,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/cKFARm4dsws_seg0_f4.jpg
+v_cKFARm4dsws,cKFARm4dsws,1,1.11,3.67, He closes it and builds up some momentum to start going fast.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/cKFARm4dsws_seg1_f0.jpg
+v_cKFARm4dsws,cKFARm4dsws,1,1.11,3.67, He closes it and builds up some momentum to start going fast.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/cKFARm4dsws_seg1_f1.jpg
+v_cKFARm4dsws,cKFARm4dsws,1,1.11,3.67, He closes it and builds up some momentum to start going fast.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/cKFARm4dsws_seg1_f2.jpg
+v_cKFARm4dsws,cKFARm4dsws,1,1.11,3.67, He closes it and builds up some momentum to start going fast.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/cKFARm4dsws_seg1_f3.jpg
+v_cKFARm4dsws,cKFARm4dsws,1,1.11,3.67, He closes it and builds up some momentum to start going fast.,4,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/cKFARm4dsws_seg1_f4.jpg
+v_cKFARm4dsws,cKFARm4dsws,2,3.67,6.84, He kicks his feet back and forth getting pretty high.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/cKFARm4dsws_seg2_f0.jpg
+v_cKFARm4dsws,cKFARm4dsws,2,3.67,6.84, He kicks his feet back and forth getting pretty high.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/cKFARm4dsws_seg2_f1.jpg
+v_cKFARm4dsws,cKFARm4dsws,2,3.67,6.84, He kicks his feet back and forth getting pretty high.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/cKFARm4dsws_seg2_f2.jpg
+v_cKFARm4dsws,cKFARm4dsws,2,3.67,6.84, He kicks his feet back and forth getting pretty high.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/cKFARm4dsws_seg2_f3.jpg
+v_cKFARm4dsws,cKFARm4dsws,2,3.67,6.84, He kicks his feet back and forth getting pretty high.,4,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/cKFARm4dsws_seg2_f4.jpg
+v_cKFARm4dsws,cKFARm4dsws,3,6.84,11.12, He just enjoys his time swinging back and forth outside enjoying the day.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/cKFARm4dsws_seg3_f0.jpg
+v_cKFARm4dsws,cKFARm4dsws,3,6.84,11.12, He just enjoys his time swinging back and forth outside enjoying the day.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/cKFARm4dsws_seg3_f1.jpg
+v_cKFARm4dsws,cKFARm4dsws,3,6.84,11.12, He just enjoys his time swinging back and forth outside enjoying the day.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/cKFARm4dsws_seg3_f2.jpg
+v_cKFARm4dsws,cKFARm4dsws,3,6.84,11.12, He just enjoys his time swinging back and forth outside enjoying the day.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/cKFARm4dsws_seg3_f3.jpg
+v_KVmuW9kwZV4,KVmuW9kwZV4,0,0.0,2.0,A man at his dish washing job has a very unique way to do his dishes at a very fast speed.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/KVmuW9kwZV4_seg0_f0.jpg
+v_KVmuW9kwZV4,KVmuW9kwZV4,0,0.0,2.0,A man at his dish washing job has a very unique way to do his dishes at a very fast speed.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/KVmuW9kwZV4_seg0_f1.jpg
+v_KVmuW9kwZV4,KVmuW9kwZV4,0,0.0,2.0,A man at his dish washing job has a very unique way to do his dishes at a very fast speed.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/KVmuW9kwZV4_seg0_f2.jpg
+v_KVmuW9kwZV4,KVmuW9kwZV4,0,0.0,2.0,A man at his dish washing job has a very unique way to do his dishes at a very fast speed.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/KVmuW9kwZV4_seg0_f3.jpg
+v_KVmuW9kwZV4,KVmuW9kwZV4,0,0.0,2.0,A man at his dish washing job has a very unique way to do his dishes at a very fast speed.,4,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/KVmuW9kwZV4_seg0_f4.jpg
+v_KVmuW9kwZV4,KVmuW9kwZV4,1,2.0,5.05, He throws all the plates one by one very fast.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/KVmuW9kwZV4_seg1_f0.jpg
+v_KVmuW9kwZV4,KVmuW9kwZV4,1,2.0,5.05, He throws all the plates one by one very fast.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/KVmuW9kwZV4_seg1_f1.jpg
+v_KVmuW9kwZV4,KVmuW9kwZV4,1,2.0,5.05, He throws all the plates one by one very fast.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/KVmuW9kwZV4_seg1_f2.jpg
+v_KVmuW9kwZV4,KVmuW9kwZV4,1,2.0,5.05, He throws all the plates one by one very fast.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/KVmuW9kwZV4_seg1_f3.jpg
+v_KVmuW9kwZV4,KVmuW9kwZV4,1,2.0,5.05, He throws all the plates one by one very fast.,4,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/KVmuW9kwZV4_seg1_f4.jpg
+v_KVmuW9kwZV4,KVmuW9kwZV4,2,5.49,8.04," They all land into the sink on top of each other after he wipes them down, some of them fall out a bit.",0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/KVmuW9kwZV4_seg2_f0.jpg
+v_KVmuW9kwZV4,KVmuW9kwZV4,2,5.49,8.04," They all land into the sink on top of each other after he wipes them down, some of them fall out a bit.",1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/KVmuW9kwZV4_seg2_f1.jpg
+v_KVmuW9kwZV4,KVmuW9kwZV4,2,5.49,8.04," They all land into the sink on top of each other after he wipes them down, some of them fall out a bit.",2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/KVmuW9kwZV4_seg2_f2.jpg
+v_KVmuW9kwZV4,KVmuW9kwZV4,2,5.49,8.04," They all land into the sink on top of each other after he wipes them down, some of them fall out a bit.",3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/KVmuW9kwZV4_seg2_f3.jpg
+v_KVmuW9kwZV4,KVmuW9kwZV4,2,5.49,8.04," They all land into the sink on top of each other after he wipes them down, some of them fall out a bit.",4,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/KVmuW9kwZV4_seg2_f4.jpg
+v_KVmuW9kwZV4,KVmuW9kwZV4,3,8.42,12.35, The he pushes them all down into the water.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/KVmuW9kwZV4_seg3_f0.jpg
+v_KVmuW9kwZV4,KVmuW9kwZV4,3,8.42,12.35, The he pushes them all down into the water.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/KVmuW9kwZV4_seg3_f1.jpg
+v_KVmuW9kwZV4,KVmuW9kwZV4,3,8.42,12.35, The he pushes them all down into the water.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/KVmuW9kwZV4_seg3_f2.jpg
+v_KVmuW9kwZV4,KVmuW9kwZV4,3,8.42,12.35, The he pushes them all down into the water.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/KVmuW9kwZV4_seg3_f3.jpg
+v_KVmuW9kwZV4,KVmuW9kwZV4,3,8.42,12.35, The he pushes them all down into the water.,4,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/KVmuW9kwZV4_seg3_f4.jpg
+v_4U13LEMIdi4,4U13LEMIdi4,0,0.0,12.15,A cat is sitting in a cat bed.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/4U13LEMIdi4_seg0_f0.jpg
+v_4U13LEMIdi4,4U13LEMIdi4,0,0.0,12.15,A cat is sitting in a cat bed.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/4U13LEMIdi4_seg0_f1.jpg
+v_4U13LEMIdi4,4U13LEMIdi4,0,0.0,12.15,A cat is sitting in a cat bed.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/4U13LEMIdi4_seg0_f2.jpg
+v_4U13LEMIdi4,4U13LEMIdi4,0,0.0,12.15,A cat is sitting in a cat bed.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/4U13LEMIdi4_seg0_f3.jpg
+v_4U13LEMIdi4,4U13LEMIdi4,1,0.55,10.38, It is licking its paw.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/4U13LEMIdi4_seg1_f0.jpg
+v_4U13LEMIdi4,4U13LEMIdi4,1,0.55,10.38, It is licking its paw.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/4U13LEMIdi4_seg1_f1.jpg
+v_4U13LEMIdi4,4U13LEMIdi4,1,0.55,10.38, It is licking its paw.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/4U13LEMIdi4_seg1_f2.jpg
+v_4U13LEMIdi4,4U13LEMIdi4,1,0.55,10.38, It is licking its paw.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/4U13LEMIdi4_seg1_f3.jpg
+v_4U13LEMIdi4,4U13LEMIdi4,1,0.55,10.38, It is licking its paw.,4,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/4U13LEMIdi4_seg1_f4.jpg
+v_4U13LEMIdi4,4U13LEMIdi4,2,10.44,12.15, It then wipes its paw on its ear.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/4U13LEMIdi4_seg2_f0.jpg
+v_4U13LEMIdi4,4U13LEMIdi4,2,10.44,12.15, It then wipes its paw on its ear.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/4U13LEMIdi4_seg2_f1.jpg
+v_4U13LEMIdi4,4U13LEMIdi4,2,10.44,12.15, It then wipes its paw on its ear.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/4U13LEMIdi4_seg2_f2.jpg
+v_4U13LEMIdi4,4U13LEMIdi4,2,10.44,12.15, It then wipes its paw on its ear.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/4U13LEMIdi4_seg2_f3.jpg
+v_dvzwVrZkDiI,dvzwVrZkDiI,0,0.11,2.58,A small child is seen looking up at the camera holding a coffee cup.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/dvzwVrZkDiI_seg0_f0.jpg
+v_dvzwVrZkDiI,dvzwVrZkDiI,0,0.11,2.58,A small child is seen looking up at the camera holding a coffee cup.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/dvzwVrZkDiI_seg0_f1.jpg
+v_dvzwVrZkDiI,dvzwVrZkDiI,0,0.11,2.58,A small child is seen looking up at the camera holding a coffee cup.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/dvzwVrZkDiI_seg0_f2.jpg
+v_dvzwVrZkDiI,dvzwVrZkDiI,0,0.11,2.58,A small child is seen looking up at the camera holding a coffee cup.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/dvzwVrZkDiI_seg0_f3.jpg
+v_dvzwVrZkDiI,dvzwVrZkDiI,0,0.11,2.58,A small child is seen looking up at the camera holding a coffee cup.,4,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/dvzwVrZkDiI_seg0_f4.jpg
+v_dvzwVrZkDiI,dvzwVrZkDiI,1,2.47,7.96, The girl takes a drink out of the cup and puts it back down.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/dvzwVrZkDiI_seg1_f0.jpg
+v_dvzwVrZkDiI,dvzwVrZkDiI,1,2.47,7.96, The girl takes a drink out of the cup and puts it back down.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/dvzwVrZkDiI_seg1_f1.jpg
+v_dvzwVrZkDiI,dvzwVrZkDiI,1,2.47,7.96, The girl takes a drink out of the cup and puts it back down.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/dvzwVrZkDiI_seg1_f2.jpg
+v_dvzwVrZkDiI,dvzwVrZkDiI,1,2.47,7.96, The girl takes a drink out of the cup and puts it back down.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/dvzwVrZkDiI_seg1_f3.jpg
+v_dvzwVrZkDiI,dvzwVrZkDiI,1,2.47,7.96, The girl takes a drink out of the cup and puts it back down.,4,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/dvzwVrZkDiI_seg1_f4.jpg
+v_dvzwVrZkDiI,dvzwVrZkDiI,2,7.03,10.49, She continues drinking out of the container and looks up to the camera.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/dvzwVrZkDiI_seg2_f0.jpg
+v_dvzwVrZkDiI,dvzwVrZkDiI,2,7.03,10.49, She continues drinking out of the container and looks up to the camera.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/dvzwVrZkDiI_seg2_f1.jpg
+v_dvzwVrZkDiI,dvzwVrZkDiI,2,7.03,10.49, She continues drinking out of the container and looks up to the camera.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/dvzwVrZkDiI_seg2_f2.jpg
+v_dvzwVrZkDiI,dvzwVrZkDiI,2,7.03,10.49, She continues drinking out of the container and looks up to the camera.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/dvzwVrZkDiI_seg2_f3.jpg
+v_dvzwVrZkDiI,dvzwVrZkDiI,2,7.03,10.49, She continues drinking out of the container and looks up to the camera.,4,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/dvzwVrZkDiI_seg2_f4.jpg
+v_arTumJHoLB0,arTumJHoLB0,0,0.0,2.93,A young man is seen looking off into the distance with lotion on his face.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/arTumJHoLB0_seg0_f0.jpg
+v_arTumJHoLB0,arTumJHoLB0,0,0.0,2.93,A young man is seen looking off into the distance with lotion on his face.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/arTumJHoLB0_seg0_f1.jpg
+v_arTumJHoLB0,arTumJHoLB0,0,0.0,2.93,A young man is seen looking off into the distance with lotion on his face.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/arTumJHoLB0_seg0_f2.jpg
+v_arTumJHoLB0,arTumJHoLB0,0,0.0,2.93,A young man is seen looking off into the distance with lotion on his face.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/arTumJHoLB0_seg0_f3.jpg
+v_arTumJHoLB0,arTumJHoLB0,0,0.0,2.93,A young man is seen looking off into the distance with lotion on his face.,4,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/arTumJHoLB0_seg0_f4.jpg
+v_arTumJHoLB0,arTumJHoLB0,1,2.69,9.77, He continues rubbing the lotion in while looking away from the camera.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/arTumJHoLB0_seg1_f0.jpg
+v_arTumJHoLB0,arTumJHoLB0,1,2.69,9.77, He continues rubbing the lotion in while looking away from the camera.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/arTumJHoLB0_seg1_f1.jpg
+v_arTumJHoLB0,arTumJHoLB0,1,2.69,9.77, He continues rubbing the lotion in while looking away from the camera.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/arTumJHoLB0_seg1_f2.jpg
+v_arTumJHoLB0,arTumJHoLB0,1,2.69,9.77, He continues rubbing the lotion in while looking away from the camera.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/arTumJHoLB0_seg1_f3.jpg
+v_arTumJHoLB0,arTumJHoLB0,1,2.69,9.77, He continues rubbing the lotion in while looking away from the camera.,4,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/arTumJHoLB0_seg1_f4.jpg
+v_arTumJHoLB0,arTumJHoLB0,2,9.83,11.73, He finishes putting in the sunscreen and looking away from the camera.,0,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/arTumJHoLB0_seg2_f0.jpg
+v_arTumJHoLB0,arTumJHoLB0,2,9.83,11.73, He finishes putting in the sunscreen and looking away from the camera.,1,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/arTumJHoLB0_seg2_f1.jpg
+v_arTumJHoLB0,arTumJHoLB0,2,9.83,11.73, He finishes putting in the sunscreen and looking away from the camera.,2,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/arTumJHoLB0_seg2_f2.jpg
+v_arTumJHoLB0,arTumJHoLB0,2,9.83,11.73, He finishes putting in the sunscreen and looking away from the camera.,3,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/arTumJHoLB0_seg2_f3.jpg
+v_arTumJHoLB0,arTumJHoLB0,2,9.83,11.73, He finishes putting in the sunscreen and looking away from the camera.,4,/workspace/Semana4/ProyectoFinal/data/activitynet/frames/arTumJHoLB0_seg2_f4.jpg

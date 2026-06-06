@@ -1,0 +1,110 @@
+query_caption,correct_segment,hard_negative_segment,similarity
+We see two people playing foosball.,v_28GYivx4lyk_seg0,v_28GYivx4lyk_seg1,0.334854394197464
+ A man in a black shirt leave the room and turns before leaving.,v_28GYivx4lyk_seg1,v_jIYRVlrXJgc_seg3,0.24389180541038513
+ A man puts his face in front of the camera.,v_28GYivx4lyk_seg2,v_arTumJHoLB0_seg1,0.2931627035140991
+Two men stands on front a tall hedge holding trimmers.,v_2ErgL7-MXHw_seg0,v_2ErgL7-MXHw_seg2,0.3312683403491974
+ The men cuts the top of the hedge.,v_2ErgL7-MXHw_seg1,v_2ErgL7-MXHw_seg2,0.35508522391319275
+ Leaves falls from the top of the hedge.,v_2ErgL7-MXHw_seg2,v_2ErgL7-MXHw_seg0,0.2673388123512268
+A man in black is sitting and playing at a piano while a man in red is standing near drums.,v_3nvVkcxxaJ4_seg0,v_3nvVkcxxaJ4_seg1,0.298939049243927
+" As the man in black plays, the man in red is rolling up a wire.",v_3nvVkcxxaJ4_seg1,v_4R5KDUqBPcU_seg1,0.28506773710250854
+ The man in red begins bobbing his head to the beat of the piano music.,v_3nvVkcxxaJ4_seg2,v_3nvVkcxxaJ4_seg1,0.2737523019313812
+ The man then places the wire down.,v_3nvVkcxxaJ4_seg3,v_2ErgL7-MXHw_seg1,0.2938742935657501
+There's a man wearing a black athletic suit in a shot put field practicing shot put.,v_4R5KDUqBPcU_seg0,v_GZsplhHXQy0_seg3,0.2706683278083801
+ He begins by taking the ball in his hand and holding it against his neck.,v_4R5KDUqBPcU_seg1,v_MAZlsi4Bon8_seg1,0.27810317277908325
+ Then he spins around and throws the ball far ahead.,v_4R5KDUqBPcU_seg2,v_jIYRVlrXJgc_seg2,0.321745365858078
+A cat is sitting in a cat bed.,v_4U13LEMIdi4_seg0,v_4U13LEMIdi4_seg1,0.3463422656059265
+ It is licking its paw.,v_4U13LEMIdi4_seg1,v_4U13LEMIdi4_seg0,0.24181580543518066
+ It then wipes its paw on its ear.,v_4U13LEMIdi4_seg2,v_4U13LEMIdi4_seg0,0.2343621850013733
+A boy serves a tennis ball.,v_5BVcwR8hEo0_seg0,v_5BVcwR8hEo0_seg1,0.30140751600265503
+ He then serves two more.,v_5BVcwR8hEo0_seg1,v_KVmuW9kwZV4_seg1,0.2781054377555847
+ The boy turns and walks away.,v_5BVcwR8hEo0_seg2,v_MAZlsi4Bon8_seg2,0.2863788604736328
+man wearing a red shirt is standing in a large green field behind kids.,v_6KG4p_pfMQc_seg0,v_UCndppz9rWc_seg0,0.2612322270870209
+ little blonde kid throw a ball and a kid kicks the ball in the field.,v_6KG4p_pfMQc_seg1,v_zqXJkZgKmSk_seg0,0.2436588704586029
+ kisd are running in the field to catch th ball.,v_6KG4p_pfMQc_seg2,v_zqXJkZgKmSk_seg3,0.32766544818878174
+A teenage boy on a horse spinning a rope in the air chases after a little cow.,v_9uZoTZsTwv0_seg0,v_9uZoTZsTwv0_seg1,0.29217952489852905
+ The cow is running and the boy throws the rope around its neck.,v_9uZoTZsTwv0_seg1,v_9uZoTZsTwv0_seg0,0.31303977966308594
+ It causes the cow to fall over after being pulled back by the rope.,v_9uZoTZsTwv0_seg2,v_9uZoTZsTwv0_seg1,0.3077307641506195
+ The boy goes running off the horse after it and pins the little cow down.,v_9uZoTZsTwv0_seg3,v_9uZoTZsTwv0_seg1,0.33683979511260986
+A man performs a kettle throw in front of an outdoor stadium filled with spectators in the audience.,v_GZsplhHXQy0_seg0,v_4R5KDUqBPcU_seg0,0.27948087453842163
+  A man on a round dirt area on a field swings a ball around and around while standing in place.,v_GZsplhHXQy0_seg1,v_6KG4p_pfMQc_seg1,0.28282302618026733
+"  The man lets the ball go, where it flies in the air ahead of him.",v_GZsplhHXQy0_seg2,v_zqXJkZgKmSk_seg0,0.3193194568157196
+  The man stops and bends with his knees as he watches the ball fly in the air.,v_GZsplhHXQy0_seg3,v_4R5KDUqBPcU_seg1,0.30556368827819824
+A woman in blue shorts hands a man a dart.,v_H2-rEH9TXR4_seg0,v_sVk-Br0zfkA_seg0,0.2592587471008301
+ A man in a white hat throws a dart at a board.,v_H2-rEH9TXR4_seg1,v_sVk-Br0zfkA_seg1,0.242908775806427
+ The woman walks up to the board.,v_H2-rEH9TXR4_seg2,v_jIYRVlrXJgc_seg2,0.23379075527191162
+A man at his dish washing job has a very unique way to do his dishes at a very fast speed.,v_KVmuW9kwZV4_seg0,v_KVmuW9kwZV4_seg1,0.41003143787384033
+ He throws all the plates one by one very fast.,v_KVmuW9kwZV4_seg1,v_KVmuW9kwZV4_seg2,0.37320074439048767
+" They all land into the sink on top of each other after he wipes them down, some of them fall out a bit.",v_KVmuW9kwZV4_seg2,v_yKdvz5dgro4_seg2,0.2818675935268402
+ The he pushes them all down into the water.,v_KVmuW9kwZV4_seg3,v_PPXrVuZAb74_seg2,0.27654752135276794
+A young boy is at a party holding a stick and hitting a pinata.,v_MAZlsi4Bon8_seg0,v_MAZlsi4Bon8_seg2,0.31790682673454285
+ When the boy is done hitting it an adult walks towards the pinata.,v_MAZlsi4Bon8_seg1,v_MAZlsi4Bon8_seg2,0.34209567308425903
+ Another child standing with the adult also begins walking towards the pinata.,v_MAZlsi4Bon8_seg2,v_MAZlsi4Bon8_seg1,0.300383985042572
+girl us hanging from a pole in a roofed gym and make a jump to the land pool.,v_OJJMEEsOdPQ_seg0,v_OJJMEEsOdPQ_seg1,0.3198733925819397
+ woman wwearing a red shirt is standing in front of the pole.,v_OJJMEEsOdPQ_seg1,v_H2-rEH9TXR4_seg0,0.23638221621513367
+ little girl is walking in front of he girl doing gymnastics.,v_OJJMEEsOdPQ_seg2,v_OJJMEEsOdPQ_seg0,0.2375303953886032
+A woman is closing her eyes standing on a diving board.,v_PPXrVuZAb74_seg0,v_PPXrVuZAb74_seg1,0.25108298659324646
+ She does a flip and dives into the water.,v_PPXrVuZAb74_seg1,v_PPXrVuZAb74_seg2,0.3053293228149414
+ She swims to the surface.,v_PPXrVuZAb74_seg2,v_PPXrVuZAb74_seg1,0.2652058005332947
+manis wearing a white shirt and is walking in a green grass carrying a lawnmower.,v_UCndppz9rWc_seg0,v_UCndppz9rWc_seg1,0.32923799753189087
+  kid is standing in the field watching the man with the lawnmower.,v_UCndppz9rWc_seg1,v_UCndppz9rWc_seg2,0.3365272283554077
+ man stands and extends the hand to hold the kid.,v_UCndppz9rWc_seg2,v_MAZlsi4Bon8_seg2,0.2776488959789276
+A young man is shown on a road wearing stilts.,v_Ufki4AjZHFI_seg0,v_Ufki4AjZHFI_seg2,0.3169700801372528
+ He walks over to the side of the road.,v_Ufki4AjZHFI_seg1,v_Ufki4AjZHFI_seg0,0.2802729606628418
+ He then lifts his feet up and down as if in preparation of running.,v_Ufki4AjZHFI_seg2,v_uwGcEaW3z3Q_seg0,0.27305731177330017
+ The video ends as the person recording tilts the camera and covers the lens.,v_Ufki4AjZHFI_seg3,v_jIYRVlrXJgc_seg3,0.29733186960220337
+The person is parasailing the water.,v_W0RYvQUUNe0_seg0,v_W0RYvQUUNe0_seg2,0.26251277327537537
+" As the person sail, he started to bounce on the water.",v_W0RYvQUUNe0_seg1,v_W0RYvQUUNe0_seg0,0.3063086271286011
+ The person maneuver the sail to turn around.,v_W0RYvQUUNe0_seg2,v_W0RYvQUUNe0_seg1,0.30103322863578796
+A boy is standing at the counter facing backwards from the dart board.,v_ZNsX4KYJlVQ_seg0,v_ZNsX4KYJlVQ_seg1,0.23901814222335815
+ His mom is standing beside him and he is getting ready to throw his dart.,v_ZNsX4KYJlVQ_seg1,v_MAZlsi4Bon8_seg2,0.2831643521785736
+ He throws it and completely misses the dart board all together.,v_ZNsX4KYJlVQ_seg2,v_sVk-Br0zfkA_seg1,0.33515045046806335
+ He hits the top of the wall and he goes over to reach for it and take it out.,v_ZNsX4KYJlVQ_seg3,v_jIYRVlrXJgc_seg3,0.27448761463165283
+The camera shakes on an image of an indoor volleyball court.,v_a42c_maArv4_seg0,v_a42c_maArv4_seg2,0.2768450379371643
+ A woman races back from the net to hit the incoming volleyball.,v_a42c_maArv4_seg1,v_a42c_maArv4_seg2,0.28491491079330444
+ A fellow team member also hits the ball and sends it across the net.,v_a42c_maArv4_seg2,v_6KG4p_pfMQc_seg1,0.31668269634246826
+A young man is seen looking off into the distance with lotion on his face.,v_arTumJHoLB0_seg0,v_arTumJHoLB0_seg1,0.27002647519111633
+ He continues rubbing the lotion in while looking away from the camera.,v_arTumJHoLB0_seg1,v_arTumJHoLB0_seg2,0.28584498167037964
+ He finishes putting in the sunscreen and looking away from the camera.,v_arTumJHoLB0_seg2,v_arTumJHoLB0_seg1,0.31544142961502075
+A man is seen bending over a bang in the middle of drummers.,v_bQ3yPbCICRg_seg0,v_bQ3yPbCICRg_seg2,0.2882709205150604
+ The people hit the drums continuously while the camera pans around.,v_bQ3yPbCICRg_seg1,v_bQ3yPbCICRg_seg2,0.2876129746437073
+ The men drum while the camera pans around them.,v_bQ3yPbCICRg_seg2,v_bQ3yPbCICRg_seg0,0.3225053548812866
+A little boy is getting on the swinging closing his little safety guard.,v_cKFARm4dsws_seg0,v_cKFARm4dsws_seg2,0.32806557416915894
+ He closes it and builds up some momentum to start going fast.,v_cKFARm4dsws_seg1,v_uwGcEaW3z3Q_seg0,0.2304297685623169
+ He kicks his feet back and forth getting pretty high.,v_cKFARm4dsws_seg2,v_Ufki4AjZHFI_seg2,0.2811378240585327
+ He just enjoys his time swinging back and forth outside enjoying the day.,v_cKFARm4dsws_seg3,v_cKFARm4dsws_seg2,0.2793443202972412
+A small child is seen looking up at the camera holding a coffee cup.,v_dvzwVrZkDiI_seg0,v_dvzwVrZkDiI_seg2,0.2701471447944641
+ The girl takes a drink out of the cup and puts it back down.,v_dvzwVrZkDiI_seg1,v_dvzwVrZkDiI_seg0,0.2868008613586426
+ She continues drinking out of the container and looks up to the camera.,v_dvzwVrZkDiI_seg2,v_dvzwVrZkDiI_seg0,0.3135397434234619
+A young girl wearing a gray sweater with long red colored hair is brushing her hair.,v_fGDVlbI90pw_seg0,v_fGDVlbI90pw_seg2,0.3182312548160553
+ She is using a silver paddle brush to remove the knots from her hair and de-tangle it as she brushes it through.,v_fGDVlbI90pw_seg1,v_fGDVlbI90pw_seg0,0.26505643129348755
+ She suddenly begins to scream as she brushes her hair.,v_fGDVlbI90pw_seg2,v_fGDVlbI90pw_seg0,0.29652029275894165
+Two players are playing a game of racket ball.,v_jIYRVlrXJgc_seg0,v_5BVcwR8hEo0_seg0,0.2843891978263855
+ One female takes a swing at the ball and hits it.,v_jIYRVlrXJgc_seg1,v_zqXJkZgKmSk_seg0,0.3111947774887085
+ The other female takes a swing at the ball and misses and hits herself instead.,v_jIYRVlrXJgc_seg2,v_zqXJkZgKmSk_seg0,0.3081708252429962
+ She then sits down on the floor while the other person comes to turn the camera off.,v_jIYRVlrXJgc_seg3,v_kTStFRAp99E_seg0,0.29740598797798157
+We see two girls one sitting the other bending over.,v_kTStFRAp99E_seg0,v_kTStFRAp99E_seg1,0.28897714614868164
+ The bending girl stands up.,v_kTStFRAp99E_seg1,v_GZsplhHXQy0_seg3,0.2558317184448242
+ We see a person painting the sitting girls toe nails.,v_kTStFRAp99E_seg2,v_kTStFRAp99E_seg1,0.2467309534549713
+A close up of a woman is seen looking off into the distance and holding a dart.,v_sVk-Br0zfkA_seg0,v_sVk-Br0zfkA_seg2,0.24862566590309143
+ She throws the dart onto the board which is show up close.,v_sVk-Br0zfkA_seg1,v_sVk-Br0zfkA_seg0,0.3154548406600952
+ The woman then clenches her fists and her throw is shown again.,v_sVk-Br0zfkA_seg2,v_MAZlsi4Bon8_seg0,0.2900351881980896
+A man is trying to lift weights in a gym.,v_uwGcEaW3z3Q_seg0,v_uwGcEaW3z3Q_seg1,0.2597076892852783
+ He lifts the barbell up to his chest.,v_uwGcEaW3z3Q_seg1,v_uwGcEaW3z3Q_seg0,0.31945061683654785
+ He then lifts it over his head before dropping it to the ground.,v_uwGcEaW3z3Q_seg2,v_vbWdGj1sfO8_seg1,0.27380359172821045
+We see three men on a boat in a lake.,v_vMYPNyBR3d0_seg0,v_vMYPNyBR3d0_seg1,0.3128358721733093
+ The left man holds his nears near his chest.,v_vMYPNyBR3d0_seg1,v_arTumJHoLB0_seg2,0.24730947613716125
+ A man acts weird and sprays himself.,v_vMYPNyBR3d0_seg2,v_arTumJHoLB0_seg2,0.30139219760894775
+A female is laying on her back exercising inside of a gym.,v_vbWdGj1sfO8_seg0,v_vbWdGj1sfO8_seg3,0.3111739754676819
+ She is wearing black and pink and just looks very comfortable while she works out.,v_vbWdGj1sfO8_seg1,v_vbWdGj1sfO8_seg2,0.28371506929397583
+ She brings her arms up and her legs up to the center of her body.,v_vbWdGj1sfO8_seg2,v_vbWdGj1sfO8_seg3,0.30317890644073486
+ She does that repeatedly for a little while.,v_vbWdGj1sfO8_seg3,v_fGDVlbI90pw_seg1,0.2692076563835144
+A young man dry a pot lid while dancing.,v_yKdvz5dgro4_seg0,v_KVmuW9kwZV4_seg2,0.29328635334968567
+" Also, a teen wash a cup of steel and dancing.",v_yKdvz5dgro4_seg1,v_yKdvz5dgro4_seg0,0.2746075391769409
+ A woman enters and then leave the kitchen.,v_yKdvz5dgro4_seg2,v_jIYRVlrXJgc_seg2,0.20708632469177246
+A ball flies through he air on a baseball field.,v_zqXJkZgKmSk_seg0,v_zqXJkZgKmSk_seg1,0.2692444622516632
+ The person with the camera takes off running.,v_zqXJkZgKmSk_seg1,v_jIYRVlrXJgc_seg2,0.2798812985420227
+ The runner stops on the home base and turns around.,v_zqXJkZgKmSk_seg2,v_zqXJkZgKmSk_seg3,0.2928910255432129
+ We see the people at the back of the field.,v_zqXJkZgKmSk_seg3,v_bQ3yPbCICRg_seg0,0.24642901122570038
+A person in a black coat is scraping ice off of a window.,v_ztnt2EYuK3I_seg0,v_ztnt2EYuK3I_seg1,0.22837191820144653
+ A kid in a yellow coat is smiling at the camera.,v_ztnt2EYuK3I_seg1,v_ztnt2EYuK3I_seg2,0.22322791814804077
+ A boy in a green jacket is scraping the ice off of another car.,v_ztnt2EYuK3I_seg2,v_ztnt2EYuK3I_seg0,0.33527231216430664
