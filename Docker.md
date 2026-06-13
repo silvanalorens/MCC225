@@ -11,19 +11,20 @@ A continuación, se extrae de la guía del repositorio del docente, lo reutiliza
 
 ```text
 MCC225/
-├── Dockerfile
-├── requirements-base.txt
-├── requirements-opcional.txt
-├── Docker-mcc225.md
-├── .dockerignore
-└── Semana4/
-    ├── ProyectoFinal/
-        ├── OpenClip-MCC225.ipynb
-        ├── XCLIP_PROJECT.ipynb
-        ├── Comparativa.pdf
-        ├── README.md
+    Dockerfile
+    requirements-base.txt
+    requirements-opcional.txt
+    Docker-mcc225.md
+    Semana4/
+        ProyectoFinal/
+            OpenClip-MCC225.ipynb
+            XCLIP_PROJECT.ipynb
+            XCLIP_PROJECT01.ipynb
+            Comparativa.pdf
+            README.md
     
 ```
+XCLIP_PROJECT01.ipynb: Con ejecuciones, solo que fallo al pasar a Github, no se puede ver directamente en el github, pero se puede descargar. Por ello se añade XCLIP_PROJECT.ipynb (cuanderno solo con códigos) para ver directamente en GITHUB.
 
 #### 2. Dockerfile
 
