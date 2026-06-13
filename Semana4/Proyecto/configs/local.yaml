@@ -1,0 +1,24 @@
+project:
+  name: MCC225-Semana4-OpenCLIP
+  root: .
+
+data:
+  metadata_csv: data/bootstrap_flickr30k/metadata.csv
+  query_csv: data/bootstrap_flickr30k/queries.csv
+  prompt_config: data/bootstrap_flickr30k/prompt_config.json
+
+model:
+  model_name: ViT-B-32
+  pretrained: laion2b_s34b_b79k
+  precision: amp
+
+runtime:
+  batch_size: 16
+  num_workers: 2
+  device: cuda_if_available
+
+outputs:
+  embeddings_npz: outputs/embeddings/bootstrap_embeddings.npz
+  retrieval_metrics_json: outputs/metrics/retrieval_metrics.json
+  hard_negatives_csv: outputs/metrics/hard_negatives.csv
+  zeroshot_predictions_csv: outputs/metrics/zeroshot_predictions.csv

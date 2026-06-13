@@ -1,0 +1,12 @@
+# Extras mínimos para Semana4/Proyecto.
+# Complementa el entorno principal del repositorio MCC225.
+# No reemplaza requirements-base.txt ni requirements-opcional.txt.
+#
+# Cambio 2026-05:
+# - El pipeline remoto usa Vishva007/Flickr-Dataset-1k, publicado en formato Parquet.
+# - Ya no depende del script legacy de nlphuji/flickr30k.
+# - Por eso no se fuerza datasets<4.
+
+PyYAML==6.0.2
+datasets>=3.6.0,<5
+Pillow>=10

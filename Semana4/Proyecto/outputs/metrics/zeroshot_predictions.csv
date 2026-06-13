@@ -1,0 +1,7 @@
+image_id,filepath,caption,label,pred_label,is_correct,prompt_template_used
+flickr30k_0000,/workspace/Semana4/Proyecto/data/bootstrap_flickr30k/images/1000092795.jpg,Two young guys with shaggy hair look at their hands while hanging out in the yard.,people_outdoors,maintenance,False,a photo of {}
+flickr30k_0001,/workspace/Semana4/Proyecto/data/bootstrap_flickr30k/images/10002456.jpg,Several men in hard hats are operating a giant pulley system.,industrial_workers,industrial_workers,True,a photo of {}
+flickr30k_0002,/workspace/Semana4/Proyecto/data/bootstrap_flickr30k/images/1000268201.jpg,A child in a pink dress is climbing up a set of stairs in an entry way.,child_play,child_play,True,a photo of {}
+flickr30k_0003,/workspace/Semana4/Proyecto/data/bootstrap_flickr30k/images/1000344755.jpg,A man on a ladder cleans a window.,maintenance,maintenance,True,a photo of {}
+flickr30k_0004,/workspace/Semana4/Proyecto/data/bootstrap_flickr30k/images/1000366164.jpg,Two men are cooking a meal.,cooking,cooking,True,a photo of {}
+flickr30k_0005,/workspace/Semana4/Proyecto/data/bootstrap_flickr30k/images/1000523639.jpg,A man is fixing the guitar player's costume.,performance,performance,True,a photo of {}

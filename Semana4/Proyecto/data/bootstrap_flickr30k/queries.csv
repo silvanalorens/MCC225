@@ -1,0 +1,7 @@
+query_id,query,expected_label
+q1,two men in a yard,people_outdoors
+q2,workers on a machine with hard hats,industrial_workers
+q3,little girl climbing into a wooden playhouse,child_play
+q4,man cleaning a window on a ladder,maintenance
+q5,two men cooking in a kitchen,cooking
+q6,man with a guitar during a performance,performance

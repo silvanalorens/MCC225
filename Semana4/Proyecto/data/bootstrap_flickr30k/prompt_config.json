@@ -1,0 +1,23 @@
+{
+  "templates": [
+    "a photo of {}",
+    "an image of {}",
+    "a caption about {}"
+  ],
+  "class_names": [
+    "people outdoors",
+    "industrial workers",
+    "child climbing stairs",
+    "window cleaning",
+    "cooking in a kitchen",
+    "music performance"
+  ],
+  "label_map": {
+    "people_outdoors": "people outdoors",
+    "industrial_workers": "industrial workers",
+    "child_play": "child climbing stairs",
+    "maintenance": "window cleaning",
+    "cooking": "cooking in a kitchen",
+    "performance": "music performance"
+  }
+}

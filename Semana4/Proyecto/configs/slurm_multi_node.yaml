@@ -1,0 +1,9 @@
+distributed:
+  launcher: slurm
+  nodes: 2
+  gpus_per_node: 1
+  cpus_per_task: 6
+  mem_gb: 32
+  use_torchrun: true
+  local_loss: true
+  gather_with_grad: true

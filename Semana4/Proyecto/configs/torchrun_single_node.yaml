@@ -1,0 +1,6 @@
+distributed:
+  launcher: torchrun
+  nnodes: 1
+  nproc_per_node: 1
+  local_loss: true
+  gather_with_grad: true
