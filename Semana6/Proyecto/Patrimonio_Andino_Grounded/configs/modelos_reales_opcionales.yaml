@@ -1,0 +1,8 @@
+captioning_model: Salesforce/blip-image-captioning-base
+text_encoder_model: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+image_encoder_model: openai/clip-vit-base-patch32
+diffusion_model: stabilityai/stable-diffusion-xl-base-1.0
+default_device: cuda
+mixed_precision: fp16
+generate_max_new_tokens: 40
+batch_size_captioning: 2

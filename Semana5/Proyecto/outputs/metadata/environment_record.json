@@ -1,0 +1,18 @@
+{
+  "timestamp_utc": "2026-04-29T16:09:03.259938+00:00",
+  "project_root": "/workspace/Semana5/Proyecto",
+  "git_revision": "not_available",
+  "python": "3.11.15 (main, Apr 22 2026, 02:06:58) [GCC 14.2.0]",
+  "platform": "Linux-6.17.0-22-generic-x86_64-with-glibc2.41",
+  "numpy_version": "1.26.4",
+  "pandas_version": "2.2.2",
+  "open_clip_version": "2.26.1",
+  "model_name": "ViT-B-32",
+  "pretrained_checkpoint": "laion2b_s34b_b79k",
+  "target_n_images": 300,
+  "torch_version": "2.4.1+cu121",
+  "cuda_available": true,
+  "cuda_version": "12.1",
+  "gpu_name": "NVIDIA GeForce RTX 4080 SUPER",
+  "gpu_count": 1
+}

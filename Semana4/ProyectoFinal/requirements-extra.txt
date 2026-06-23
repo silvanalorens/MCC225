@@ -1,5 +1,6 @@
 # ProyectoFinal
 # Dependencias adicionales para ActivityNet + OpenCLIP
+#pip install yt-dlp para descargar los videos de youtube
 
 PyYAML==6.0.2
 datasets>=3.6.0,<5

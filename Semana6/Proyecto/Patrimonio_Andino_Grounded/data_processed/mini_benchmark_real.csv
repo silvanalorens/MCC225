@@ -1,0 +1,8 @@
+record_id,canonical_id,source,modality_type,title,object_type,culture,split,has_image,has_structure,has_context,needs_technical_output
+okr_kh_0068_view_01,kh_0068,open_khipu,no_image,"Khipu KH0068 (UR1057, AS057)",Khipu,Andean,train,False,True,True,False
+okr_kh_0082_view_01,kh_0082,open_khipu,no_image,Khipu KH0082 (AS069),Khipu,Andean,train,False,True,True,False
+okr_kh_0323_view_01,kh_0323,open_khipu,no_image,Khipu KH0323 (UR087),Khipu,Andean,dev,False,True,True,False
+okr_kh_0328_view_01,kh_0328,open_khipu,no_image,Khipu KH0328 (UR092),Khipu,Andean,train,False,True,True,False
+par_1932_01_0005_photo_01,par_1932_01_0005,paracas,photo,Fragmento textil Paracas 1932.01.0005,Textile,Paracas,train,False,True,True,False
+par_1935_32_0212_photo_01,par_1935_32_0212,paracas,photo,Fragmentos de manto Paracas 1935.32.0212,Textile,Paracas,test,False,True,True,False
+par_xrf_em1932_01_0013e,par_xrf_em1932_01_0013e,paracas,xrf_map,Mapa XRF de muestra textil Paracas EM1932.01.0013.E,Technical Image,Paracas,challenge,False,True,True,True

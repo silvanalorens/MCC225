@@ -1,0 +1,7 @@
+job_name: week5_openclip_single
+partition: gpu
+nodes: 1
+gpus_per_node: 1
+cpus_per_task: 8
+mem_gb: 48
+time: 02:00:00

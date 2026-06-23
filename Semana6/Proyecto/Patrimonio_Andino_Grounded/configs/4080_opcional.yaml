@@ -1,0 +1,17 @@
+captioning:
+  enabled: true
+  model_id: Salesforce/blip-image-captioning-base
+  dtype: float16
+  device: cuda
+
+generation:
+  enabled: false
+  model_id: stabilityai/stable-diffusion-xl-base-1.0
+  dtype: float16
+  device: cuda
+  guidance_scale: 5.0
+  num_inference_steps: 30
+
+notes:
+  - Ruta opcional pensada para una RTX 4080 o superior.
+  - Si no hay GPU disponible, mantener solo la ruta base de recuperación + generación plantilla.

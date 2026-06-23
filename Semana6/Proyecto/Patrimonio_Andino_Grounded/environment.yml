@@ -1,0 +1,19 @@
+name: patrimonio-andino-grounded
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - pandas
+  - numpy
+  - scikit-learn
+  - matplotlib
+  - pillow
+  - pyyaml
+  - jupyterlab
+  - notebook
+  - pip:
+      - transformers>=4.56
+      - torch>=2.2
+      - sentence-transformers>=3.0
+      - requests>=2.31

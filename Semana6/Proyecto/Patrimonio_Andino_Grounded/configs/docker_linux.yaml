@@ -1,0 +1,9 @@
+project_root_hint: /workspace/Semana6/Proyecto/Patrimonio_Andino_Grounded
+jupyter_url: http://localhost:8899/lab
+preferred_notebooks:
+  - notebooks/10_verificacion_entorno_docker_linux.ipynb
+  - notebooks/07_demo_integrada_y_modelo_real_opcional.ipynb
+  - notebooks/08_corrida_local_rtx4080_opcional.ipynb
+execution_modes:
+  cpu: recuperacion_y_generacion_grounded
+  gpu: captioning_real_opcional

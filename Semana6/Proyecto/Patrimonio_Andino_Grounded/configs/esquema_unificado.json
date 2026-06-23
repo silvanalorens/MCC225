@@ -1,0 +1,31 @@
+{
+  "record_id": "string",
+  "canonical_id": "string",
+  "source": "open_khipu | paracas",
+  "source_record_id": "string",
+  "modality_type": "photo | xrf_map | diagram | no_image",
+  "title": "string",
+  "description": "string",
+  "object_type": "string",
+  "culture": "string",
+  "date_display": "string",
+  "date_begin": "int|null",
+  "date_end": "int|null",
+  "medium": "string|null",
+  "provenance": "string|null",
+  "institution": "string|null",
+  "collection": "string|null",
+  "rights": "string|null",
+  "language": "es | en | und",
+  "tags": [
+    "string"
+  ],
+  "image_path": "string|null",
+  "image_url": "string|null",
+  "thumbnail_path": "string|null",
+  "split": "train | dev | test | challenge",
+  "x_s": {},
+  "x_t": {},
+  "x_c": {},
+  "qa_flags": {}
+}

@@ -1,0 +1,13 @@
+label_map:
+  people_outdoors: people outdoors in a yard or garden
+  industrial_workers: construction or industrial workers operating equipment
+  child_play: child climbing stairs or entering a playhouse
+  maintenance: worker cleaning a window on a ladder
+  cooking: people cooking in a kitchen
+  performance: musician or guitar performance scene
+templates:
+  - a photo of {}
+  - an image of {}
+  - a documentary-style image of {}
+  - a real-world scene showing {}
+  - a natural image of {}

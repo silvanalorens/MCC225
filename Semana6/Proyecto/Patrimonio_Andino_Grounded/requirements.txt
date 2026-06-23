@@ -1,0 +1,14 @@
+pandas>=2.2
+numpy>=1.26
+scikit-learn>=1.5
+matplotlib>=3.8
+pillow>=10.0
+jupyterlab>=4.0
+notebook>=7.0
+pyyaml>=6.0
+tqdm>=4.66
+requests>=2.31
+transformers>=4.56
+torch>=2.2
+sentence-transformers>=3.0
+faiss-cpu>=1.8 ; platform_system != "Windows"
