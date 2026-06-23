@@ -10,7 +10,7 @@ torchvision
 # ============================================================
 
 transformers==4.57.3
-huggingface-hub==0.24.6
+huggingface-hub>=0.34.0,<1.0
 safetensors
 accelerate
 
