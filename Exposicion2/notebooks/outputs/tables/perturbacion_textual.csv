@@ -1,0 +1,201 @@
+image_id,image_path,tipo_perturbacion,texto,clipscore_simplificado
+img_00000,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00000.jpg,original,a black dog is running after a white dog in the snow,0.36326966
+img_00000,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00000.jpg,negacion,no a black dog is running after a white dog in the snow,0.3399921
+img_00000,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00000.jpg,conteo,dos a black dog is running after a white dog in the snow,0.3212031
+img_00000,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00000.jpg,atributo,a black dog is running after a white dog in the snow de color rojo,0.36385491
+img_00000,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00000.jpg,objeto_externo,a black dog is running after a white dog in the snow con un avion visible,0.3587413
+img_00001,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00001.jpg,original,a little baby plays croquet,0.314081
+img_00001,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00001.jpg,negacion,no a little baby plays croquet,0.29009572
+img_00001,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00001.jpg,conteo,dos a little baby plays croquet,0.3125991
+img_00001,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00001.jpg,atributo,a little baby plays croquet de color rojo,0.29554683
+img_00001,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00001.jpg,objeto_externo,a little baby plays croquet con un avion visible,0.3009405
+img_00002,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00002.jpg,original,a brown dog in the snow has something hot pink in its mouth,0.343611
+img_00002,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00002.jpg,negacion,no a brown dog in the snow has something hot pink in its mouth,0.3260002
+img_00002,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00002.jpg,conteo,dos a brown dog in the snow has something hot pink in its mouth,0.30560607
+img_00002,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00002.jpg,atributo,a brown dog in the snow has something hot pink in its mouth de color rojo,0.34621784
+img_00002,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00002.jpg,objeto_externo,a brown dog in the snow has something hot pink in its mouth con un avion visible,0.33065134
+img_00003,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00003.jpg,original,a brown dog is running along a beach,0.33727852
+img_00003,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00003.jpg,negacion,no a brown dog is running along a beach,0.31261292
+img_00003,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00003.jpg,conteo,dos a brown dog is running along a beach,0.30347717
+img_00003,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00003.jpg,atributo,a brown dog is running along a beach de color rojo,0.3351582
+img_00003,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00003.jpg,objeto_externo,a brown dog is running along a beach con un avion visible,0.32601956
+img_00004,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00004.jpg,original,a black and white dog with a red frisbee standing on a sandy beach,0.38370985
+img_00004,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00004.jpg,negacion,no a black and white dog with a red frisbee standing on a sandy beach,0.38300347
+img_00004,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00004.jpg,conteo,dos a black and white dog with a red frisbee standing on a sandy beach,0.37669483
+img_00004,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00004.jpg,atributo,a black and white dog with a red frisbee standing on a sandy beach de color rojo,0.38089713
+img_00004,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00004.jpg,objeto_externo,a black and white dog with a red frisbee standing on a sandy beach con un avion visible,0.3750756
+img_00005,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00005.jpg,original,a cyclist wearing a red helmet is riding on the pavement,0.32290226
+img_00005,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00005.jpg,negacion,no a cyclist wearing a red helmet is riding on the pavement,0.3112862
+img_00005,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00005.jpg,conteo,dos a cyclist wearing a red helmet is riding on the pavement,0.2903868
+img_00005,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00005.jpg,atributo,a cyclist wearing a red helmet is riding on the pavement de color rojo,0.3319668
+img_00005,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00005.jpg,objeto_externo,a cyclist wearing a red helmet is riding on the pavement con un avion visible,0.319057
+img_00006,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00006.jpg,original,a man dressed in a purple shirt and red bandanna smiles at the people watching him,0.35314798
+img_00006,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00006.jpg,negacion,no a man dressed in a purple shirt and red bandanna smiles at the people watching him,0.32662547
+img_00006,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00006.jpg,conteo,dos a man dressed in a purple shirt and red bandanna smiles at the people watching him,0.34836707
+img_00006,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00006.jpg,atributo,a man dressed in a purple shirt and red bandanna smiles at the people watching him de color rojo,0.33270532
+img_00006,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00006.jpg,objeto_externo,a man dressed in a purple shirt and red bandanna smiles at the people watching him con un avion visible,0.33260012
+img_00007,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00007.jpg,original,a boy wearing a red t shirt is running through woodland,0.31728595
+img_00007,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00007.jpg,negacion,no a boy wearing a red t shirt is running through woodland,0.2657756
+img_00007,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00007.jpg,conteo,dos a boy wearing a red t shirt is running through woodland,0.2951
+img_00007,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00007.jpg,atributo,a boy wearing a red t shirt is running through woodland de color rojo,0.33513194
+img_00007,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00007.jpg,objeto_externo,a boy wearing a red t shirt is running through woodland con un avion visible,0.31149435
+img_00008,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00008.jpg,original,a girl in a white dress,0.21279341
+img_00008,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00008.jpg,negacion,no a girl in a white dress,0.21099493
+img_00008,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00008.jpg,conteo,dos a girl in a white dress,0.21465585
+img_00008,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00008.jpg,atributo,a girl in a white dress de color rojo,0.23029359
+img_00008,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00008.jpg,objeto_externo,a girl in a white dress con un avion visible,0.23890452
+img_00009,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00009.jpg,original,a skier in a yellow jacket is airborne above the mountains,0.34861013
+img_00009,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00009.jpg,negacion,no a skier in a yellow jacket is airborne above the mountains,0.32373297
+img_00009,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00009.jpg,conteo,dos a skier in a yellow jacket is airborne above the mountains,0.3055781
+img_00009,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00009.jpg,atributo,a skier in a yellow jacket is airborne above the mountains de color rojo,0.33805802
+img_00009,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00009.jpg,objeto_externo,a skier in a yellow jacket is airborne above the mountains con un avion visible,0.33795077
+img_00010,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00010.jpg,original,a photographer looks over the hills,0.28297174
+img_00010,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00010.jpg,negacion,no a photographer looks over the hills,0.24135292
+img_00010,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00010.jpg,conteo,dos a photographer looks over the hills,0.2478122
+img_00010,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00010.jpg,atributo,a photographer looks over the hills de color rojo,0.28056225
+img_00010,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00010.jpg,objeto_externo,a photographer looks over the hills con un avion visible,0.29303837
+img_00011,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00011.jpg,original,a bunch of girls in cheerleader outfits,0.29178217
+img_00011,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00011.jpg,negacion,no a bunch of girls in cheerleader outfits,0.28531298
+img_00011,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00011.jpg,conteo,dos a bunch of girls in cheerleader outfits,0.28869745
+img_00011,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00011.jpg,atributo,a bunch of girls in cheerleader outfits de color rojo,0.27734923
+img_00011,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00011.jpg,objeto_externo,a bunch of girls in cheerleader outfits con un avion visible,0.29155177
+img_00012,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00012.jpg,original,a blue boat with a yellow canopy is floating on calm waters,0.3067375
+img_00012,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00012.jpg,negacion,no a blue boat with a yellow canopy is floating on calm waters,0.3023179
+img_00012,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00012.jpg,conteo,dos a blue boat with a yellow canopy is floating on calm waters,0.28581426
+img_00012,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00012.jpg,atributo,a blue boat with a yellow canopy is floating on calm waters de color rojo,0.30231076
+img_00012,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00012.jpg,objeto_externo,a blue boat with a yellow canopy is floating on calm waters con un avion visible,0.3025952
+img_00013,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00013.jpg,original,a dog catches a frisbee in midair,0.2995281
+img_00013,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00013.jpg,negacion,no a dog catches a frisbee in midair,0.28239912
+img_00013,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00013.jpg,conteo,dos a dog catches a frisbee in midair,0.26792794
+img_00013,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00013.jpg,atributo,a dog catches a frisbee in midair de color rojo,0.29468086
+img_00013,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00013.jpg,objeto_externo,a dog catches a frisbee in midair con un avion visible,0.29584405
+img_00014,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00014.jpg,original,a little old lady sitting next to an advertisement,0.29368037
+img_00014,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00014.jpg,negacion,no a little old lady sitting next to an advertisement,0.2855804
+img_00014,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00014.jpg,conteo,dos a little old lady sitting next to an advertisement,0.28773212
+img_00014,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00014.jpg,atributo,a little old lady sitting next to an advertisement de color rojo,0.3073804
+img_00014,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00014.jpg,objeto_externo,a little old lady sitting next to an advertisement con un avion visible,0.31058028
+img_00015,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00015.jpg,original,a blond girl wearing a green jacket walks on a trail along side a metal fence,0.29919922
+img_00015,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00015.jpg,negacion,no a blond girl wearing a green jacket walks on a trail along side a metal fence,0.31280392
+img_00015,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00015.jpg,conteo,dos a blond girl wearing a green jacket walks on a trail along side a metal fence,0.3066935
+img_00015,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00015.jpg,atributo,a blond girl wearing a green jacket walks on a trail along side a metal fence de color rojo,0.29479384
+img_00015,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00015.jpg,objeto_externo,a blond girl wearing a green jacket walks on a trail along side a metal fence con un avion visible,0.30050808
+img_00016,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00016.jpg,original,a family of nine people including four children pose in front of a brick fireplace with a white mantle,0.2886857
+img_00016,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00016.jpg,negacion,no a family of nine people including four children pose in front of a brick fireplace with a white mantle,0.2847636
+img_00016,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00016.jpg,conteo,dos a family of nine people including four children pose in front of a brick fireplace with a white mantle,0.28064206
+img_00016,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00016.jpg,atributo,a family of nine people including four children pose in front of a brick fireplace with a white mantle de color rojo,0.28346986
+img_00016,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00016.jpg,objeto_externo,a family of nine people including four children pose in front of a brick fireplace with a white mantle con un avion visible,0.28756574
+img_00017,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00017.jpg,original,man in a sweater pointing at the camera,0.29515943
+img_00017,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00017.jpg,negacion,no man in a sweater pointing at the camera,0.2699609
+img_00017,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00017.jpg,conteo,dos man in a sweater pointing at the camera,0.28121555
+img_00017,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00017.jpg,atributo,man in a sweater pointing at the camera de color rojo,0.28360578
+img_00017,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00017.jpg,objeto_externo,man in a sweater pointing at the camera con un avion visible,0.2786225
+img_00018,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00018.jpg,original,a dog looks warily at the brown dog investigating his area,0.30554196
+img_00018,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00018.jpg,negacion,no a dog looks warily at the brown dog investigating his area,0.2821645
+img_00018,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00018.jpg,conteo,dos a dog looks warily at the brown dog investigating his area,0.27331972
+img_00018,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00018.jpg,atributo,a dog looks warily at the brown dog investigating his area de color rojo,0.3059653
+img_00018,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00018.jpg,objeto_externo,a dog looks warily at the brown dog investigating his area con un avion visible,0.2842113
+img_00019,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00019.jpg,original,three children in a field with white flowers,0.30502477
+img_00019,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00019.jpg,negacion,no three children in a field with white flowers,0.31503803
+img_00019,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00019.jpg,conteo,dos three children in a field with white flowers,0.30506948
+img_00019,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00019.jpg,atributo,three children in a field with white flowers de color rojo,0.3047091
+img_00019,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00019.jpg,objeto_externo,three children in a field with white flowers con un avion visible,0.31607017
+img_00020,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00020.jpg,original,a boy in a red shirt in front of a long blue wall raises his eyebrow at the camera,0.30173546
+img_00020,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00020.jpg,negacion,no a boy in a red shirt in front of a long blue wall raises his eyebrow at the camera,0.2804839
+img_00020,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00020.jpg,conteo,dos a boy in a red shirt in front of a long blue wall raises his eyebrow at the camera,0.29698887
+img_00020,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00020.jpg,atributo,a boy in a red shirt in front of a long blue wall raises his eyebrow at the camera de color rojo,0.30145234
+img_00020,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00020.jpg,objeto_externo,a boy in a red shirt in front of a long blue wall raises his eyebrow at the camera con un avion visible,0.28117394
+img_00021,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00021.jpg,original,a brown dog is carrying a wet stick on the shore of the ocean,0.34310693
+img_00021,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00021.jpg,negacion,no a brown dog is carrying a wet stick on the shore of the ocean,0.3297854
+img_00021,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00021.jpg,conteo,dos a brown dog is carrying a wet stick on the shore of the ocean,0.29435185
+img_00021,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00021.jpg,atributo,a brown dog is carrying a wet stick on the shore of the ocean de color rojo,0.34490994
+img_00021,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00021.jpg,objeto_externo,a brown dog is carrying a wet stick on the shore of the ocean con un avion visible,0.3277616
+img_00022,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00022.jpg,original,two dogs are racing on a ractrack,0.31773674
+img_00022,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00022.jpg,negacion,no two dogs are racing on a ractrack,0.307566
+img_00022,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00022.jpg,conteo,dos two dogs are racing on a ractrack,0.31240934
+img_00022,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00022.jpg,atributo,two dogs are racing on a ractrack de color rojo,0.31690118
+img_00022,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00022.jpg,objeto_externo,two dogs are racing on a ractrack con un avion visible,0.30888677
+img_00023,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00023.jpg,original,a baseball pitcher with shelton on his shirt throws the ball,0.27987078
+img_00023,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00023.jpg,negacion,no a baseball pitcher with shelton on his shirt throws the ball,0.26634756
+img_00023,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00023.jpg,conteo,dos a baseball pitcher with shelton on his shirt throws the ball,0.26797166
+img_00023,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00023.jpg,atributo,a baseball pitcher with shelton on his shirt throws the ball de color rojo,0.25631475
+img_00023,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00023.jpg,objeto_externo,a baseball pitcher with shelton on his shirt throws the ball con un avion visible,0.27437928
+img_00024,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00024.jpg,original,a brown dog wades through water and walks toward a rock,0.35568663
+img_00024,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00024.jpg,negacion,no a brown dog wades through water and walks toward a rock,0.33498874
+img_00024,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00024.jpg,conteo,dos a brown dog wades through water and walks toward a rock,0.33817294
+img_00024,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00024.jpg,atributo,a brown dog wades through water and walks toward a rock de color rojo,0.34953418
+img_00024,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00024.jpg,objeto_externo,a brown dog wades through water and walks toward a rock con un avion visible,0.34363222
+img_00025,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00025.jpg,original,a group of 5 girls in school uniforms are standing together and waiting to cross the street while one girl takes a picture,0.33699217
+img_00025,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00025.jpg,negacion,no a group of 5 girls in school uniforms are standing together and waiting to cross the street while one girl takes a picture,0.3169518
+img_00025,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00025.jpg,conteo,dos a group of 5 girls in school uniforms are standing together and waiting to cross the street while one girl takes a picture,0.3002085
+img_00025,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00025.jpg,atributo,a group of 5 girls in school uniforms are standing together and waiting to cross the street while one girl takes a picture de color rojo,0.31379503
+img_00025,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00025.jpg,objeto_externo,a group of 5 girls in school uniforms are standing together and waiting to cross the street while one girl takes a picture con un avion visible,0.32296535
+img_00026,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00026.jpg,original,a boy wearing a jean jacket with his hand on his chest smiling at the camera,0.32371506
+img_00026,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00026.jpg,negacion,no a boy wearing a jean jacket with his hand on his chest smiling at the camera,0.29020432
+img_00026,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00026.jpg,conteo,dos a boy wearing a jean jacket with his hand on his chest smiling at the camera,0.31290573
+img_00026,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00026.jpg,atributo,a boy wearing a jean jacket with his hand on his chest smiling at the camera de color rojo,0.3049939
+img_00026,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00026.jpg,objeto_externo,a boy wearing a jean jacket with his hand on his chest smiling at the camera con un avion visible,0.2973595
+img_00027,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00027.jpg,original,a group of people in front of a house,0.25622228
+img_00027,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00027.jpg,negacion,no a group of people in front of a house,0.25091234
+img_00027,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00027.jpg,conteo,dos a group of people in front of a house,0.25618756
+img_00027,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00027.jpg,atributo,a group of people in front of a house de color rojo,0.23123555
+img_00027,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00027.jpg,objeto_externo,a group of people in front of a house con un avion visible,0.25924256
+img_00028,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00028.jpg,original,a woman stands in front of a display case and another woman looks at a digital camera,0.32100356
+img_00028,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00028.jpg,negacion,no a woman stands in front of a display case and another woman looks at a digital camera,0.30681506
+img_00028,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00028.jpg,conteo,dos a woman stands in front of a display case and another woman looks at a digital camera,0.31079105
+img_00028,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00028.jpg,atributo,a woman stands in front of a display case and another woman looks at a digital camera de color rojo,0.29761556
+img_00028,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00028.jpg,objeto_externo,a woman stands in front of a display case and another woman looks at a digital camera con un avion visible,0.31828338
+img_00029,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00029.jpg,original,a snowboarder jumps high into the air off of a snowy ramp,0.31742635
+img_00029,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00029.jpg,negacion,no a snowboarder jumps high into the air off of a snowy ramp,0.30556145
+img_00029,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00029.jpg,conteo,dos a snowboarder jumps high into the air off of a snowy ramp,0.30854255
+img_00029,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00029.jpg,atributo,a snowboarder jumps high into the air off of a snowy ramp de color rojo,0.3319275
+img_00029,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00029.jpg,objeto_externo,a snowboarder jumps high into the air off of a snowy ramp con un avion visible,0.32334366
+img_00030,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00030.jpg,original,a group of mountain climbers,0.25841573
+img_00030,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00030.jpg,negacion,no a group of mountain climbers,0.25076556
+img_00030,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00030.jpg,conteo,dos a group of mountain climbers,0.24963714
+img_00030,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00030.jpg,atributo,a group of mountain climbers de color rojo,0.26481673
+img_00030,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00030.jpg,objeto_externo,a group of mountain climbers con un avion visible,0.26946196
+img_00031,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00031.jpg,original,a black and white dog is jumping through a black and white hoop,0.3349027
+img_00031,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00031.jpg,negacion,no a black and white dog is jumping through a black and white hoop,0.3225738
+img_00031,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00031.jpg,conteo,dos a black and white dog is jumping through a black and white hoop,0.31224918
+img_00031,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00031.jpg,atributo,a black and white dog is jumping through a black and white hoop de color rojo,0.33775467
+img_00031,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00031.jpg,objeto_externo,a black and white dog is jumping through a black and white hoop con un avion visible,0.329185
+img_00032,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00032.jpg,original,a girl using a laptop another girl and a boy looking at his cellphone,0.27749994
+img_00032,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00032.jpg,negacion,no a girl using a laptop another girl and a boy looking at his cellphone,0.28203198
+img_00032,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00032.jpg,conteo,dos a girl using a laptop another girl and a boy looking at his cellphone,0.2703805
+img_00032,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00032.jpg,atributo,a girl using a laptop another girl and a boy looking at his cellphone de color rojo,0.29394138
+img_00032,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00032.jpg,objeto_externo,a girl using a laptop another girl and a boy looking at his cellphone con un avion visible,0.2921903
+img_00033,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00033.jpg,original,a dog races while wearing number 6,0.31154603
+img_00033,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00033.jpg,negacion,no a dog races while wearing number 6,0.30061135
+img_00033,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00033.jpg,conteo,dos a dog races while wearing number 6,0.29050425
+img_00033,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00033.jpg,atributo,a dog races while wearing number 6 de color rojo,0.30628657
+img_00033,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00033.jpg,objeto_externo,a dog races while wearing number 6 con un avion visible,0.31650856
+img_00034,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00034.jpg,original,a group of people stand at the edge of a cliff over the ocean,0.2903522
+img_00034,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00034.jpg,negacion,no a group of people stand at the edge of a cliff over the ocean,0.29851687
+img_00034,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00034.jpg,conteo,dos a group of people stand at the edge of a cliff over the ocean,0.2865364
+img_00034,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00034.jpg,atributo,a group of people stand at the edge of a cliff over the ocean de color rojo,0.2891476
+img_00034,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00034.jpg,objeto_externo,a group of people stand at the edge of a cliff over the ocean con un avion visible,0.29903314
+img_00035,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00035.jpg,original,a couple holding hands and another woman are walking down a wooded trail,0.325096
+img_00035,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00035.jpg,negacion,no a couple holding hands and another woman are walking down a wooded trail,0.30285585
+img_00035,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00035.jpg,conteo,dos a couple holding hands and another woman are walking down a wooded trail,0.31505734
+img_00035,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00035.jpg,atributo,a couple holding hands and another woman are walking down a wooded trail de color rojo,0.3207253
+img_00035,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00035.jpg,objeto_externo,a couple holding hands and another woman are walking down a wooded trail con un avion visible,0.32433638
+img_00036,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00036.jpg,original,a car sponsored by riwal is smoking its tires on a wet road,0.25911754
+img_00036,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00036.jpg,negacion,no a car sponsored by riwal is smoking its tires on a wet road,0.25177917
+img_00036,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00036.jpg,conteo,dos a car sponsored by riwal is smoking its tires on a wet road,0.25454065
+img_00036,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00036.jpg,atributo,a car sponsored by riwal is smoking its tires on a wet road de color rojo,0.24595073
+img_00036,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00036.jpg,objeto_externo,a car sponsored by riwal is smoking its tires on a wet road con un avion visible,0.26578242
+img_00037,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00037.jpg,original,a bearded man wearing a bandanna is pointing his finger whilst riding a bicycle,0.3497688
+img_00037,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00037.jpg,negacion,no a bearded man wearing a bandanna is pointing his finger whilst riding a bicycle,0.33543104
+img_00037,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00037.jpg,conteo,dos a bearded man wearing a bandanna is pointing his finger whilst riding a bicycle,0.34091035
+img_00037,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00037.jpg,atributo,a bearded man wearing a bandanna is pointing his finger whilst riding a bicycle de color rojo,0.3373503
+img_00037,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00037.jpg,objeto_externo,a bearded man wearing a bandanna is pointing his finger whilst riding a bicycle con un avion visible,0.35042453
+img_00038,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00038.jpg,original,a crowd of people waving red flags are passing under a bridge,0.30171347
+img_00038,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00038.jpg,negacion,no a crowd of people waving red flags are passing under a bridge,0.27899626
+img_00038,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00038.jpg,conteo,dos a crowd of people waving red flags are passing under a bridge,0.27440676
+img_00038,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00038.jpg,atributo,a crowd of people waving red flags are passing under a bridge de color rojo,0.29727072
+img_00038,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00038.jpg,objeto_externo,a crowd of people waving red flags are passing under a bridge con un avion visible,0.28802478
+img_00039,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00039.jpg,original,a man in sunglasses gets ready to pull a chair out to sit down for his meal,0.26802346
+img_00039,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00039.jpg,negacion,no a man in sunglasses gets ready to pull a chair out to sit down for his meal,0.24455062
+img_00039,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00039.jpg,conteo,dos a man in sunglasses gets ready to pull a chair out to sit down for his meal,0.24209893
+img_00039,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00039.jpg,atributo,a man in sunglasses gets ready to pull a chair out to sit down for his meal de color rojo,0.27204362
+img_00039,/workspace/Exposicion2/notebooks/data/processed/images/imagen_00039.jpg,objeto_externo,a man in sunglasses gets ready to pull a chair out to sit down for his meal con un avion visible,0.25910345

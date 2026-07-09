@@ -1,0 +1,22 @@
+{
+  "semilla": 22514,
+  "python": "3.11.15 (main, May  8 2026, 20:07:36) [GCC 14.2.0]",
+  "torch": "2.4.1+cpu",
+  "dispositivo": "cpu",
+  "cuda_disponible": false,
+  "commit_git": "3c59f8b9eab9ee70e422ae8c662cc14c7796c324",
+  "configuracion": {
+    "dataset_name": "jxie/flickr8k",
+    "dataset_split": "train",
+    "max_samples": 240,
+    "evaluation_samples": 160,
+    "caption_samples": 48,
+    "error_cases": 40,
+    "batch_size": 16,
+    "clip_model_name": "openai/clip-vit-base-patch32",
+    "blip_model_name": "Salesforce/blip-image-captioning-base",
+    "use_blip_captioner": false,
+    "allow_demo_mode": false,
+    "repo_root": "."
+  }
+}
