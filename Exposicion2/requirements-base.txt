@@ -1,0 +1,29 @@
+# Núcleo del entorno
+jupyterlab==4.2.5
+notebook==7.2.2
+ipykernel==6.29.5
+ipywidgets==8.1.5
+
+# Ciencia de datos
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.5.1
+matplotlib==3.9.2
+seaborn==0.13.2
+
+# NLP base del curso
+transformers==4.44.2
+datasets==2.21.0
+evaluate==0.4.3
+accelerate==0.34.2
+huggingface_hub==0.24.6
+
+torch
+torchvision
+
+# Utilidades
+tqdm==4.66.5
+nltk
+pillow==10.4.0
+
+
