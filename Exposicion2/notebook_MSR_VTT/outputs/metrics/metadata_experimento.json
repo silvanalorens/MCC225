@@ -1,0 +1,22 @@
+{
+  "semilla": 22514,
+  "python": "3.11.15 (main, May  8 2026, 20:07:36) [GCC 14.2.0]",
+  "torch": "2.4.1+cpu",
+  "dispositivo": "cpu",
+  "cuda_disponible": false,
+  "commit_git": "635951bd187ef88cbc34c08dee5da30e4efb1b3e",
+  "configuracion": {
+    "dataset_name": "silvanalorens/msr-vtt-sports-116",
+    "dataset_split": "train",
+    "max_samples": 116,
+    "evaluation_samples": 116,
+    "caption_samples": 116,
+    "error_cases": 40,
+    "batch_size": 16,
+    "clip_model_name": "openai/clip-vit-base-patch32",
+    "blip_model_name": "Salesforce/blip-image-captioning-base",
+    "use_blip_captioner": true,
+    "allow_demo_mode": false,
+    "repo_root": "."
+  }
+}
