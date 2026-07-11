@@ -2,10 +2,11 @@
 
 #### Datos del estudiante
 
-Nombre:
-Repositorio:
+Nombre: Silvana Rosas Oquendo
+Repositorio:: https://github.com/silvanalorens/MCC225/tree/main/Exposicion2
 Commit final:
-Fecha:
+Fecha: 11/07/2026
+
 
 #### Tarea definida
 
@@ -37,8 +38,7 @@ openai/clip-vit-base-patch32
 Salesforce/blip-image-captioning-base
 
 #### Baselines
-
-Explica el baseline usado y por qué es una comparación mínima razonable.
+Es una comparación mínima por tener un frame representativo.
 
 #### Métricas
 
@@ -46,16 +46,20 @@ Reporte Recall@K, CLIPScore simplificado, métricas léxicas, resultados de CapF
 
 #### Análisis de errores
 
-Incluye tabla de errores con categorías: objeto, acción, conteo, relación espacial, OCR, atributo, alucinación, sesgo, respuesta vaga y otro.
+Se muestran errores de alucinación con relación al caption humano, debido a la extracción de único frame para un video. 
 
 #### Discusión de limitaciones
 
 Explica qué no capturan las métricas, dónde falla el modelo y qué supuestos pueden afectar la validez del experimento.
+Blip fue más especifico, pero en algunos casos no brinda acción.
+Se debe agregar más frames y generar más captions por cada uno. Mantener el caption general. 
 
 #### Conexión conceptual
 
 Relaciona los resultados con BERT, VisualBERT, UNITER, ViLT, BLIP, BLIP-2 y LLaVA.
-
+prerequisito: Mayores frames por videos.
+me parece que VisualBert sería más compatible por la representación visual de los frames. BLIP si es muy importante tener una fuente como video.
+ViLT incluiría a futuro para ver su rendimiento.
 #### Conclusión
 
-Resume si el sistema muestra alineamiento multimodal robusto o solo desempeño parcial.
+Solo desempeño parcial, debí tener más frames para representar mejores momentos de videos
