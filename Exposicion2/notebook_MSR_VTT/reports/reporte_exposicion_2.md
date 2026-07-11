@@ -10,14 +10,31 @@ Fecha:
 #### Tarea definida
 
 Explica qué sistema evaluastes, qué entrada recibe y qué salida produce.
-
+Se evalua el aprendizaje constractivo con Openclip para el subconjunto de imágenes representativas de los deportes: 
+"soccer",
+"football",
+"basketball",
+"tennis",
+"baseball",
+"swimming",
+"volleyball",
+"golf",
+"boxing",
+"running",
+"cycling",
+"surfing",
+"skiing"
+Del msr-vtt
+en el retrieval.
 #### Dataset
 
-Describe el dataset usado, número de imágenes, número de captions, filtros aplicados y partición evaluada.
+Dataset MSR-VTT -116 videos de deportes seleccionados. 
+número de imágenes: 116 (1 frame central por cada video), número de captions: 1 por video, filtros aplicados: Para la imagen borrosa se utiliza el filtro gausiano.
 
 #### Modelos evaluados
-
-Indica modelos, checkpoints, parámetros relevantes y configuración de inferencia.
+Modelos: 
+openai/clip-vit-base-patch32
+Salesforce/blip-image-captioning-base
 
 #### Baselines
 
