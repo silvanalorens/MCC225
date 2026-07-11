@@ -1,0 +1,10 @@
+open_khipu:
+  db_path: data_raw/open_khipu/sqlite/khipu.db
+  metadata_path: data_raw/open_khipu/metadata/okr_objects_raw.jsonl
+  images_dir: data_raw/open_khipu/images
+
+paracas:
+  metadata_path: data_raw/paracas/metadata/paracas_objects_raw.jsonl
+  analysis_path: data_raw/paracas/metadata/paracas_analysis_raw.jsonl
+  photos_dir: data_raw/paracas/photos
+  xrf_dir: data_raw/paracas/xrf_maps

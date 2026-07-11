@@ -1,0 +1,9 @@
+job_name: week5_openclip_single_gpu
+nproc_per_node: 1
+metadata_csv: data/bootstrap_flickr30k/metadata.csv
+prompt_config: data/bootstrap_flickr30k/prompt_config.json
+model_name: ViT-B-32
+pretrained: laion2b_s34b_b79k
+batch_size: 16
+workers: 4
+precision: amp

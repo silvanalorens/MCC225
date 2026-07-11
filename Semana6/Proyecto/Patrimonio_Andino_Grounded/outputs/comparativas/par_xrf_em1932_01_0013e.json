@@ -1,0 +1,11 @@
+{
+  "record_id": "par_xrf_em1932_01_0013e",
+  "nota_comparativa": "La recuperación sugiere afinidad parcial con Fragmento textil Paracas 1932.01.0005; Fragmentos de manto Paracas 1935.32.0212. Esa proximidad es útil para comparación curatorial, pero no demuestra identidad de origen, función o cronología.",
+  "traza_evidencia": [
+    "baseline: Visualización técnica de análisis XRF asociada a una muestra textil Paracas.",
+    "provenance: Paracas, Peru",
+    "material: XRF map / dyed fiber sample",
+    "plausibility: alta (1.00)",
+    "neighbors: Fragmento textil Paracas 1932.01.0005; Fragmentos de manto Paracas 1935.32.0212"
+  ]
+}

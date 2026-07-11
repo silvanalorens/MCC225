@@ -1,0 +1,8 @@
+record_id,canonical_id,source,image_path,image_url,modality_type
+okr_kh_0068_view_01,kh_0068,open_khipu,,,no_image
+okr_kh_0082_view_01,kh_0082,open_khipu,,,no_image
+okr_kh_0323_view_01,kh_0323,open_khipu,,,no_image
+okr_kh_0328_view_01,kh_0328,open_khipu,,,no_image
+par_1932_01_0005_photo_01,par_1932_01_0005,paracas,,,photo
+par_1935_32_0212_photo_01,par_1935_32_0212,paracas,,,photo
+par_xrf_em1932_01_0013e,par_xrf_em1932_01_0013e,paracas,,,xrf_map

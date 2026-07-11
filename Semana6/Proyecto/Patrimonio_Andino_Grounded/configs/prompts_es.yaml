@@ -1,0 +1,24 @@
+caption_factual: |
+  Escribe un caption factual de máximo 20 palabras.
+  Usa solo evidencia disponible.
+  No inventes cronología, procedencia ni significado.
+
+nota_tecnico_curatorial: |
+  Redacta una nota técnico-curatorial de 80 a 120 palabras.
+  Separa observación directa, metadatos y comparación.
+  Explicita incertidumbre cuando falte evidencia.
+
+nota_comparativa: |
+  Redacta una nota comparativa de 40 a 60 palabras.
+  Compara solo con vecinos recuperados.
+  No afirmes identidad histórica.
+
+incertidumbre: |
+  Escribe una sola oración que delimite qué no puede afirmarse con la evidencia actual.
+
+traza_evidencia: |
+  Devuelve una lista breve de puntos con:
+  - metadatos usados
+  - atributos estructurales usados
+  - vecinos recuperados
+  - restricciones de evidencia

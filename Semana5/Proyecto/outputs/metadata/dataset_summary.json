@@ -1,0 +1,10 @@
+{
+  "dataset_id": "flickr1k_eval_300",
+  "dataset_mode": "expanded_retrieval_parquet_flickr1k",
+  "hf_dataset_id": "Vishva007/Flickr-Dataset-1k",
+  "metadata_csv": "data/flickr1k_eval_300/train.csv",
+  "n_images": 300,
+  "n_captions": 1500,
+  "captions_per_image_mean": 5.0,
+  "has_non_empty_labels": false
+}

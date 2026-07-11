@@ -1,0 +1,26 @@
+project_name: Semana5
+execution_mode: single_gpu
+metadata_csv: data/bootstrap_flickr30k/metadata.csv
+query_csv: data/bootstrap_flickr30k/queries.csv
+prompt_config: data/bootstrap_flickr30k/prompt_config.json
+model_name: ViT-B-32
+pretrained: laion2b_s34b_b79k
+batch_size: 16
+workers: 4
+epochs: 1
+precision: amp
+seed: 42
+notes:
+  - Usar CUDA_VISIBLE_DEVICES=0 para fijar la GPU local.
+  - No usar SLURM si no hay cluster.
+  - No usar torchrun con nproc_per_node mayor que 1 en una sola GPU.
+  - Docker/Docker Compose es suficiente para ejecutar este proyecto con una sola GPU.
+outputs:
+  embedding_output: outputs/embeddings/bootstrap_embeddings.npz
+  retrieval_output_json: outputs/metrics/retrieval_metrics.json
+  retrieval_output_csv: outputs/metrics/retrieval_per_query.csv
+  hard_negatives_csv: outputs/metrics/hard_negatives.csv
+  zeroshot_output_summary: outputs/metrics/zeroshot_prompt_summary.csv
+  zeroshot_output_predictions: outputs/metrics/zeroshot_predictions.csv
+  checkpoint_comparison_csv: outputs/metrics/checkpoint_comparison.csv
+  faiss_dir: outputs/faiss
