@@ -4,7 +4,7 @@
 
 Nombre: Silvana Rosas Oquendo
 Repositorio:: https://github.com/silvanalorens/MCC225/tree/main/Exposicion2
-Commit final:
+Commit final:5af7f4a640552018f9683e11bafea7522a6bbab5
 Fecha: 11/07/2026
 
 
