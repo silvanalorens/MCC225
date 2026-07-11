@@ -1,0 +1,117 @@
+image_id,caption_generado,bleu_simple,rouge_l,cobertura_lexica
+sin_id,a baseball player pitching a ball on a field,0.1423611111111111,0.26666666666666666,0.3333333333333333
+sin_id,two men in suits sitting on a tv set,0.027777777777777776,0.13333333333333333,0.16666666666666666
+sin_id,a group of men playing basketball on a court,0.1111111111111111,0.375,0.5
+sin_id,a soccer game is shown in the screen,0.1294642857142857,0.39999999999999997,0.5
+sin_id,a soccer field with a goal and a goal post,0.12777777777777777,0.2727272727272727,0.18181818181818182
+sin_id,a soccer game is being played in a stadium,0.2926587301587301,0.6250000000000001,0.8571428571428571
+sin_id,a football game is being played on the field,0.08680555555555555,0.26666666666666666,0.4
+sin_id,a football player is running for the ball,0.09821428571428571,0.28571428571428575,0.4
+sin_id,a football game is being played on the field,0.08680555555555555,0.2222222222222222,0.25
+sin_id,a soccer game with a player in the middle of the field,0.10606060606060605,0.2222222222222222,0.6
+sin_id,a basketball player is trying to block the ball,0.11458333333333333,0.35294117647058826,0.42857142857142855
+sin_id,a football player is about to throw the ball,0.31795634920634924,0.5,0.6666666666666666
+sin_id,a group of people are walking down a hill,0.1701388888888889,0.25,0.2857142857142857
+sin_id,a screenshot of a game with a bird flying over it,0.06818181818181818,0.11764705882352942,0.16666666666666666
+sin_id,a woman in a pool with a dog,0.32589285714285715,0.631578947368421,0.5555555555555556
+sin_id,a football player is about to throw the ball,0.181547619047619,0.4,0.75
+sin_id,a man is standing on a track with his arms up,0.16868686868686872,0.2727272727272727,0.3333333333333333
+sin_id,a man in red shirt standing on a court,0.08333333333333333,0.17391304347826086,0.14285714285714285
+sin_id,a man in green shirt playing ping po,0.39672619047619045,0.5,0.4166666666666667
+sin_id,a basketball player is about to shoot the ball,0.08333333333333333,0.23076923076923078,0.1875
+sin_id,a man in a football uniform holding a microphone,0.1423611111111111,0.2222222222222222,0.2222222222222222
+sin_id,a football game is being played on the field,0.181547619047619,0.35294117647058826,0.42857142857142855
+sin_id,table tennis players playing a game of ping,0.1607142857142857,0.19999999999999998,0.21052631578947367
+sin_id,a man in a red jersey is standing on the court,0.045454545454545456,0.12500000000000003,0.2
+sin_id,a group of men playing basketball on a court,0.08333333333333333,0.3,0.2
+sin_id,a man jumping in the air with a basketball ball,0.10277777777777777,0.23529411764705882,0.3333333333333333
+sin_id,a soccer game with a goal and a ball,0.08333333333333333,0.13333333333333333,0.16666666666666666
+sin_id,a woman in a red jersey is standing in front of a group of people,0.10119047619047619,0.28571428571428575,0.2222222222222222
+sin_id,a football player is running with the ball,0.23809523809523808,0.5,0.5
+sin_id,a baseball player is throwing a ball at the plate,0.2895833333333333,0.5217391304347826,0.5
+sin_id,a tv screen with a football game on it,0.05555555555555555,0.11764705882352941,0.125
+sin_id,the best nfl players in the nfl history,0.0625,0.11764705882352941,0.1111111111111111
+sin_id,20 % of nexus facts,0.0625,0.05714285714285715,0.03571428571428571
+sin_id,a man in a white shirt is standing in front of a plane,0.09775641025641026,0.24000000000000002,0.2
+sin_id,a woman in a pink shirt is on a boat,0.1527777777777778,0.4444444444444445,0.42857142857142855
+sin_id,a baseball player swinging at a ball,0.07142857142857142,0.2857142857142857,0.2857142857142857
+sin_id,a soccer game is being played in the stadium,0.08333333333333333,0.13793103448275865,0.23076923076923078
+sin_id,a man is duning a basketball ball into the hoop,0.10277777777777777,0.25,0.4
+sin_id,a screen shot of a football game with the words'football ',0.045454545454545456,0.25000000000000006,0.25
+sin_id,a baseball player is talking to another player,0.09821428571428571,0.25,0.2857142857142857
+sin_id,a man holding a basketball ball in his hand,0.1701388888888889,0.2962962962962963,0.25
+sin_id,a man jumping off a cliff into a cliff,0.08333333333333333,0.25,0.16666666666666666
+sin_id,a man is doing a trick on the grass,0.05555555555555555,0.25,0.16666666666666666
+sin_id,a tiger is walking around a fence,0.1845238095238095,0.26666666666666666,0.375
+sin_id,a woman in a gray tank top is interviewed by a reporter,0.1268939393939394,0.28571428571428575,0.3333333333333333
+sin_id,a woman playing a game of table tennis,0.1919642857142857,0.3157894736842105,0.45454545454545453
+sin_id,a man is duning a basketball ball into the hoop,0.12777777777777777,0.26666666666666666,0.6
+sin_id,a man in a suit and tie is talking to a reporter,0.1268939393939394,0.4,0.42857142857142855
+sin_id,a man in a green shirt is holding a kite,0.12777777777777777,0.1904761904761905,0.18181818181818182
+sin_id,a woman running in a track race,0.14285714285714285,0.3,0.3333333333333333
+sin_id,a person is doing a trick on a ball,0.1111111111111111,0.2222222222222222,0.2222222222222222
+sin_id,a man in a black shirt and black shirt is talking to someone,0.07852564102564102,0.27272727272727276,0.2857142857142857
+sin_id,a soccer game is being played on the field,0.08333333333333333,0.3157894736842105,0.3333333333333333
+sin_id,a golf player is playing a game on the tv screen,0.09090909090909091,0.24999999999999994,0.25
+sin_id,a basketball player is about to shoot the ball,0.11458333333333333,0.2105263157894737,0.375
+sin_id,a person is holding a wooden ball and a ruler,0.1,0.23529411764705882,0.2857142857142857
+sin_id,a soccer game is being played on the field,0.05555555555555555,0.23529411764705882,0.2857142857142857
+sin_id,a baseball player is throwing the ball,0.3535714285714286,0.7692307692307692,0.8333333333333334
+sin_id,a baseball game on a tv screen,0.10714285714285714,0.3333333333333333,0.4
+sin_id,a group of swimmers in a pool with spectators watching,0.05,0.14285714285714288,0.25
+sin_id,watch and share the first episode of the big bang on < & 39,0.020833333333333332,0.07407407407407407,0.07692307692307693
+sin_id,a basketball game with a crowd watching,0.27619047619047615,0.3529411764705882,0.3
+sin_id,a baseball player is throwing a ball at the plate,0.075,0.3,0.25
+sin_id,a woman in a bikini is dancing in the water,0.10277777777777777,0.2105263157894737,0.2222222222222222
+sin_id,a man is playing tennis on a court,0.09375,0.26086956521739135,0.23076923076923078
+sin_id,a basketball player is duning at the ball,0.20684523809523808,0.42857142857142855,0.6
+sin_id,a football game with a player on the field,0.1423611111111111,0.4,0.5
+sin_id,a football game is being played on the field,0.08680555555555555,0.25,0.2857142857142857
+sin_id,a man in a white shirt and yellow shorts is playing basketball,0.08333333333333333,0.25,0.2727272727272727
+sin_id,a basketball game with a crowd watching,0.07142857142857142,0.2222222222222222,0.1111111111111111
+sin_id,a football player is caught by a referee,0.39672619047619045,0.6666666666666666,0.6666666666666666
+sin_id,a 3d image of a red and blue phone,0.05555555555555555,0.13333333333333333,0.16666666666666666
+sin_id,a basketball game with a crowd watching,0.27619047619047615,0.42857142857142855,0.42857142857142855
+sin_id,a man in a suit and tie is holding a sign,0.23914141414141415,0.5882352941176471,0.8
+sin_id,a soccer player is kicking a ball on the field,0.12777777777777777,0.21428571428571427,0.2
+sin_id,a man in a red jersey is standing on the court,0.045454545454545456,0.2105263157894737,0.14285714285714285
+sin_id,a man is playing with his finger,0.11309523809523808,0.14814814814814817,0.13333333333333333
+sin_id,a man kicking a soccer ball on a field,0.05555555555555555,0.18181818181818185,0.18181818181818182
+sin_id,a man is standing on a table with a ping po,0.16136363636363635,0.34782608695652173,0.3333333333333333
+sin_id,a man jumping over a log in the middle of a field,0.1268939393939394,0.3,0.375
+sin_id,a soccer game is being played on the field,0.027777777777777776,0.13333333333333333,0.2
+sin_id,a man is sitting at a table with a plate of food,0.1268939393939394,0.2727272727272727,0.3
+sin_id,a man in a suit and tie is standing in front of a crowd,0.07142857142857142,0.21052631578947364,0.4
+sin_id,a man in a red shirt and hat,0.0,0.0,0.0
+sin_id,a group of people in yellow shirts and black hats,0.025,0.125,0.16666666666666666
+sin_id,a man is playing tennis on a court,0.5553571428571429,0.75,0.7142857142857143
+sin_id,a man in a suit and tie is standing in front of a crowd,0.05357142857142857,0.10526315789473682,0.2
+sin_id,a snow covered path in the woods,0.07142857142857142,0.19047619047619047,0.16666666666666666
+sin_id,a man in a suit and tie is sitting at a desk,0.08333333333333333,0.3157894736842105,0.3333333333333333
+sin_id,a video of a soccer game being played by a man,0.06818181818181818,0.18181818181818182,0.1111111111111111
+sin_id,a man is running down a steep hill,0.0,0.0,0.0
+sin_id,a black and white image of a street at night,0.075,0.21428571428571427,0.13333333333333333
+sin_id,a screenshot of a basketball player with a ball,0.1423611111111111,0.2857142857142857,0.4
+sin_id,a man is sitting on the floor with his head down,0.022727272727272728,0.09999999999999999,0.1111111111111111
+sin_id,a football player catching a ball in the air,0.08333333333333333,0.25,0.2857142857142857
+sin_id,a person riding a wave on a surfboard,0.0,0.0,0.0
+sin_id,a man standing on a basketball court with a ball,0.12777777777777777,0.37499999999999994,0.4
+sin_id,a basketball court with a player in the middle,0.1388888888888889,0.25,0.26666666666666666
+sin_id,the rockets'team celebrates after their win over the rockets,0.0,0.0,0.0
+sin_id,made 2 to 10 plays of the week 4 snows are mine to,0.0,0.0,0.0
+sin_id,a man is playing basketball in a large gym,0.08333333333333333,0.4,0.4
+sin_id,a football player running with the ball,0.1488095238095238,0.27272727272727276,0.23076923076923078
+sin_id,a person is doing a trick on a ball,0.1111111111111111,0.14285714285714285,0.1111111111111111
+sin_id,a hockey player is trying to block the puck,0.027777777777777776,0.14285714285714285,0.2
+sin_id,a cartoon of two men playing hockey,0.10714285714285714,0.3529411764705882,0.3
+sin_id,nba live game trailer,0.0,0.0,0.0
+sin_id,a basketball player is about to shoot the ball,0.2093253968253968,0.33333333333333337,0.2857142857142857
+sin_id,a man and woman walking through a forest,0.125,0.2727272727272727,0.23076923076923078
+sin_id,a screenshot of a video game,0.08333333333333333,0.13333333333333333,0.1111111111111111
+sin_id,a group of people playing instruments in a room,0.05555555555555555,0.125,0.14285714285714285
+sin_id,a red circle is seen in the dark,0.0625,0.2,0.2
+sin_id,a video of a soccer game being played by a man,0.16363636363636364,0.3529411764705882,0.6
+sin_id,a bunch of oranges in a cage,0.14285714285714285,0.2857142857142857,0.23076923076923078
+sin_id,a 3d image of a red and blue phone,0.05555555555555555,0.14285714285714285,0.2
+sin_id,a man standing in front of a building,0.125,0.19354838709677416,0.15
+sin_id,a baseball player is throwing a ball at the plate,0.075,0.3157894736842105,0.25

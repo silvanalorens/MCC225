@@ -10,7 +10,7 @@ PROJECT_ROOT = Path(__file__).resolve().parent.parent
 
 VIDEO_DIR = PROJECT_ROOT / "data" / "msr-vtt" / "videos"
 
-IMAGES_DIR = PROJECT_ROOT / "data" / "msr-vtt" / "frames"
+IMAGES_DIR = PROJECT_ROOT / "data" / "raw"
 
 OUTPUT_DIR = PROJECT_ROOT / "outputs"
 OUTPUT_DIR.mkdir(exist_ok=True)

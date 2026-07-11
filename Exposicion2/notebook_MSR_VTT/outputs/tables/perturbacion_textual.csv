@@ -1,0 +1,201 @@
+image_id,image_path,tipo_perturbacion,texto,clipscore_simplificado
+video1002,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1002.jpg,original,a baseball pitcher practicing his pitches,0.31352317
+video1002,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1002.jpg,negacion,no a baseball pitcher practicing his pitches,0.2923356
+video1002,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1002.jpg,conteo,dos a baseball pitcher practicing his pitches,0.29716283
+video1002,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1002.jpg,atributo,a baseball pitcher practicing his pitches de color rojo,0.31334957
+video1002,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1002.jpg,objeto_externo,a baseball pitcher practicing his pitches con un avion visible,0.31211275
+video1030,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1030.jpg,original,a man talks about football scores,0.2583431
+video1030,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1030.jpg,negacion,no a man talks about football scores,0.2525397
+video1030,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1030.jpg,conteo,dos a man talks about football scores,0.2716778
+video1030,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1030.jpg,atributo,a man talks about football scores de color rojo,0.2694484
+video1030,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1030.jpg,objeto_externo,a man talks about football scores con un avion visible,0.26445603
+video1071,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1071.jpg,original,a couple of people shooting a basketball,0.2715326
+video1071,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1071.jpg,negacion,no a couple of people shooting a basketball,0.24058087
+video1071,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1071.jpg,conteo,dos a couple of people shooting a basketball,0.22769287
+video1071,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1071.jpg,atributo,a couple of people shooting a basketball de color rojo,0.26782697
+video1071,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1071.jpg,objeto_externo,a couple of people shooting a basketball con un avion visible,0.24495244
+video1077,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1077.jpg,original,a commercial for a soccer video game,0.2865578
+video1077,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1077.jpg,negacion,no a commercial for a soccer video game,0.28137335
+video1077,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1077.jpg,conteo,dos a commercial for a soccer video game,0.27563837
+video1077,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1077.jpg,atributo,a commercial for a soccer video game de color rojo,0.25474587
+video1077,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1077.jpg,objeto_externo,a commercial for a soccer video game con un avion visible,0.2591325
+video1211,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1211.jpg,original,a cowboy and a police officer firings guns followed by football action,0.26023257
+video1211,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1211.jpg,negacion,no a cowboy and a police officer firings guns followed by football action,0.24662827
+video1211,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1211.jpg,conteo,dos a cowboy and a police officer firings guns followed by football action,0.2497007
+video1211,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1211.jpg,atributo,a cowboy and a police officer firings guns followed by football action de color rojo,0.24014145
+video1211,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1211.jpg,objeto_externo,a cowboy and a police officer firings guns followed by football action con un avion visible,0.24765907
+video1241,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1241.jpg,original,a game of soccer is being played,0.24480233
+video1241,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1241.jpg,negacion,no a game of soccer is being played,0.23686923
+video1241,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1241.jpg,conteo,dos a game of soccer is being played,0.19979808
+video1241,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1241.jpg,atributo,a game of soccer is being played de color rojo,0.25047338
+video1241,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1241.jpg,objeto_externo,a game of soccer is being played con un avion visible,0.26713473
+video1247,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1247.jpg,original,a football player scores a touchdown,0.27178168
+video1247,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1247.jpg,negacion,no a football player scores a touchdown,0.25261757
+video1247,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1247.jpg,conteo,dos a football player scores a touchdown,0.2592572
+video1247,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1247.jpg,atributo,a football player scores a touchdown de color rojo,0.26004997
+video1247,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1247.jpg,objeto_externo,a football player scores a touchdown con un avion visible,0.2664458
+video1249,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1249.jpg,original,a clip of a football game,0.2692915
+video1249,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1249.jpg,negacion,no a clip of a football game,0.25194094
+video1249,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1249.jpg,conteo,dos a clip of a football game,0.24873744
+video1249,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1249.jpg,atributo,a clip of a football game de color rojo,0.25487855
+video1249,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1249.jpg,objeto_externo,a clip of a football game con un avion visible,0.26208705
+video1295,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1295.jpg,original,a football player makes a point for his team,0.24398151
+video1295,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1295.jpg,negacion,no a football player makes a point for his team,0.22551562
+video1295,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1295.jpg,conteo,dos a football player makes a point for his team,0.23440407
+video1295,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1295.jpg,atributo,a football player makes a point for his team de color rojo,0.1849697
+video1295,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1295.jpg,objeto_externo,a football player makes a point for his team con un avion visible,0.24258333
+video1327,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1327.jpg,original,a clip of a soccer match,0.30896246
+video1327,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1327.jpg,negacion,no a clip of a soccer match,0.27303004
+video1327,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1327.jpg,conteo,dos a clip of a soccer match,0.27829376
+video1327,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1327.jpg,atributo,a clip of a soccer match de color rojo,0.28622264
+video1327,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1327.jpg,objeto_externo,a clip of a soccer match con un avion visible,0.29594338
+video1329,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1329.jpg,original,a basketball assist leads to a slam dunk,0.28850523
+video1329,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1329.jpg,negacion,no a basketball assist leads to a slam dunk,0.28563097
+video1329,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1329.jpg,conteo,dos a basketball assist leads to a slam dunk,0.28171042
+video1329,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1329.jpg,atributo,a basketball assist leads to a slam dunk de color rojo,0.27764875
+video1329,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1329.jpg,objeto_externo,a basketball assist leads to a slam dunk con un avion visible,0.28544906
+video1354,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1354.jpg,original,a football player is tackling another player,0.25722837
+video1354,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1354.jpg,negacion,no a football player is tackling another player,0.25098252
+video1354,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1354.jpg,conteo,dos a football player is tackling another player,0.2490429
+video1354,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1354.jpg,atributo,a football player is tackling another player de color rojo,0.2652349
+video1354,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1354.jpg,objeto_externo,a football player is tackling another player con un avion visible,0.27043626
+video136,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video136.jpg,original,today were are talking about running downhill as we watch a bunch of people running,0.28415444
+video136,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video136.jpg,negacion,no today were are talking about running downhill as we watch a bunch of people running,0.28199857
+video136,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video136.jpg,conteo,dos today were are talking about running downhill as we watch a bunch of people running,0.27962545
+video136,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video136.jpg,atributo,today were are talking about running downhill as we watch a bunch of people running de color rojo,0.2714601
+video136,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video136.jpg,objeto_externo,today were are talking about running downhill as we watch a bunch of people running con un avion visible,0.25536963
+video1368,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1368.jpg,original,a cartoon animal is running around,0.2600278
+video1368,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1368.jpg,negacion,no a cartoon animal is running around,0.2504013
+video1368,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1368.jpg,conteo,dos a cartoon animal is running around,0.24773908
+video1368,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1368.jpg,atributo,a cartoon animal is running around de color rojo,0.23151122
+video1368,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1368.jpg,objeto_externo,a cartoon animal is running around con un avion visible,0.23310675
+video1397,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1397.jpg,original,a dog is playing in a swimming pool with another dog,0.3354179
+video1397,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1397.jpg,negacion,no a dog is playing in a swimming pool with another dog,0.31510785
+video1397,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1397.jpg,conteo,dos a dog is playing in a swimming pool with another dog,0.32301503
+video1397,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1397.jpg,atributo,a dog is playing in a swimming pool with another dog de color rojo,0.316394
+video1397,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1397.jpg,objeto_externo,a dog is playing in a swimming pool with another dog con un avion visible,0.31866044
+video1408,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1408.jpg,original,a football player with a football,0.25021914
+video1408,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1408.jpg,negacion,no a football player with a football,0.24508002
+video1408,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1408.jpg,conteo,dos a football player with a football,0.2403942
+video1408,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1408.jpg,atributo,a football player with a football de color rojo,0.26635176
+video1408,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1408.jpg,objeto_externo,a football player with a football con un avion visible,0.2664731
+video1480,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1480.jpg,original,a man is jumping and running while another man is watching,0.24484067
+video1480,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1480.jpg,negacion,no a man is jumping and running while another man is watching,0.24117774
+video1480,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1480.jpg,conteo,dos a man is jumping and running while another man is watching,0.23659612
+video1480,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1480.jpg,atributo,a man is jumping and running while another man is watching de color rojo,0.21932185
+video1480,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1480.jpg,objeto_externo,a man is jumping and running while another man is watching con un avion visible,0.242849
+video1536,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1536.jpg,original,two extremely talented athletes are vying for the win in a table tennis match,0.33299112
+video1536,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1536.jpg,negacion,no two extremely talented athletes are vying for the win in a table tennis match,0.31040147
+video1536,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1536.jpg,conteo,dos two extremely talented athletes are vying for the win in a table tennis match,0.32019874
+video1536,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1536.jpg,atributo,two extremely talented athletes are vying for the win in a table tennis match de color rojo,0.32654497
+video1536,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1536.jpg,objeto_externo,two extremely talented athletes are vying for the win in a table tennis match con un avion visible,0.3070766
+video1543,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1543.jpg,original,a man in green t shirt is practising his table tennis skills,0.32883865
+video1543,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1543.jpg,negacion,no a man in green t shirt is practising his table tennis skills,0.29816312
+video1543,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1543.jpg,conteo,dos a man in green t shirt is practising his table tennis skills,0.2999431
+video1543,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1543.jpg,atributo,a man in green t shirt is practising his table tennis skills de color rojo,0.32035148
+video1543,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1543.jpg,objeto_externo,a man in green t shirt is practising his table tennis skills con un avion visible,0.30770642
+video157,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video157.jpg,original,a compilation of fight videos dance video and basketball footage with a rap music in the background,0.29364294
+video157,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video157.jpg,negacion,no a compilation of fight videos dance video and basketball footage with a rap music in the background,0.27241075
+video157,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video157.jpg,conteo,dos a compilation of fight videos dance video and basketball footage with a rap music in the background,0.29305032
+video157,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video157.jpg,atributo,a compilation of fight videos dance video and basketball footage with a rap music in the background de color rojo,0.27335384
+video157,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video157.jpg,objeto_externo,a compilation of fight videos dance video and basketball footage with a rap music in the background con un avion visible,0.30249885
+video158,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video158.jpg,original,a football player is being interviewed on the field,0.31037092
+video158,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video158.jpg,negacion,no a football player is being interviewed on the field,0.2955855
+video158,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video158.jpg,conteo,dos a football player is being interviewed on the field,0.29085976
+video158,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video158.jpg,atributo,a football player is being interviewed on the field de color rojo,0.2860328
+video158,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video158.jpg,objeto_externo,a football player is being interviewed on the field con un avion visible,0.3031994
+video1585,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1585.jpg,original,a crowd cheering while watching a football game,0.28651935
+video1585,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1585.jpg,negacion,no a crowd cheering while watching a football game,0.2718173
+video1585,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1585.jpg,conteo,dos a crowd cheering while watching a football game,0.27931693
+video1585,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1585.jpg,atributo,a crowd cheering while watching a football game de color rojo,0.26359698
+video1585,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1585.jpg,objeto_externo,a crowd cheering while watching a football game con un avion visible,0.26978752
+video1608,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1608.jpg,original,there is going on a table tennis game between two people one is in yellow and the other is in red dressing,0.36263415
+video1608,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1608.jpg,negacion,no there is going on a table tennis game between two people one is in yellow and the other is in red dressing,0.34971222
+video1608,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1608.jpg,conteo,dos there is going on a table tennis game between two people one is in yellow and the other is in red dressing,0.35711104
+video1608,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1608.jpg,atributo,there is going on a table tennis game between two people one is in yellow and the other is in red dressing de color rojo,0.35835674
+video1608,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1608.jpg,objeto_externo,there is going on a table tennis game between two people one is in yellow and the other is in red dressing con un avion visible,0.35633644
+video1623,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1623.jpg,original,a basketball game being played,0.25367105
+video1623,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1623.jpg,negacion,no a basketball game being played,0.2549155
+video1623,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1623.jpg,conteo,dos a basketball game being played,0.25726163
+video1623,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1623.jpg,atributo,a basketball game being played de color rojo,0.2533836
+video1623,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1623.jpg,objeto_externo,a basketball game being played con un avion visible,0.24700905
+video1652,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1652.jpg,original,a basketball player shooting a jump shot and then celebrating afterwords,0.27720144
+video1652,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1652.jpg,negacion,no a basketball player shooting a jump shot and then celebrating afterwords,0.25583148
+video1652,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1652.jpg,conteo,dos a basketball player shooting a jump shot and then celebrating afterwords,0.26881814
+video1652,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1652.jpg,atributo,a basketball player shooting a jump shot and then celebrating afterwords de color rojo,0.26585
+video1652,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1652.jpg,objeto_externo,a basketball player shooting a jump shot and then celebrating afterwords con un avion visible,0.2792433
+video1667,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1667.jpg,original,a basketball player does a slam dunk,0.31769875
+video1667,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1667.jpg,negacion,no a basketball player does a slam dunk,0.2971804
+video1667,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1667.jpg,conteo,dos a basketball player does a slam dunk,0.32316247
+video1667,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1667.jpg,atributo,a basketball player does a slam dunk de color rojo,0.3173763
+video1667,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1667.jpg,objeto_externo,a basketball player does a slam dunk con un avion visible,0.31920385
+video1734,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1734.jpg,original,a football match is going on,0.24094684
+video1734,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1734.jpg,negacion,no a football match is going on,0.23877293
+video1734,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1734.jpg,conteo,dos a football match is going on,0.22888106
+video1734,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1734.jpg,atributo,a football match is going on de color rojo,0.23471493
+video1734,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1734.jpg,objeto_externo,a football match is going on con un avion visible,0.26252457
+video179,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video179.jpg,original,a girl in a soccer uniform confronts a guy on a soccer field,0.3430506
+video179,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video179.jpg,negacion,no a girl in a soccer uniform confronts a guy on a soccer field,0.33577222
+video179,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video179.jpg,conteo,dos a girl in a soccer uniform confronts a guy on a soccer field,0.34562957
+video179,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video179.jpg,atributo,a girl in a soccer uniform confronts a guy on a soccer field de color rojo,0.33461773
+video179,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video179.jpg,objeto_externo,a girl in a soccer uniform confronts a guy on a soccer field con un avion visible,0.33409956
+video1913,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1913.jpg,original,a football player dances with his team mates,0.2198522
+video1913,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1913.jpg,negacion,no a football player dances with his team mates,0.20501031
+video1913,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1913.jpg,conteo,dos a football player dances with his team mates,0.23440728
+video1913,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1913.jpg,atributo,a football player dances with his team mates de color rojo,0.16583954
+video1913,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1913.jpg,objeto_externo,a football player dances with his team mates con un avion visible,0.23240624
+video1930,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1930.jpg,original,a baseball player hits a ball and it is out at first base,0.2970374
+video1930,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1930.jpg,negacion,no a baseball player hits a ball and it is out at first base,0.2985472
+video1930,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1930.jpg,conteo,dos a baseball player hits a ball and it is out at first base,0.3015369
+video1930,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1930.jpg,atributo,a baseball player hits a ball and it is out at first base de color rojo,0.29485273
+video1930,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1930.jpg,objeto_externo,a baseball player hits a ball and it is out at first base con un avion visible,0.2979586
+video1940,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1940.jpg,original,a baseball player is sliding into second base,0.227802
+video1940,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1940.jpg,negacion,no a baseball player is sliding into second base,0.22009373
+video1940,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1940.jpg,conteo,dos a baseball player is sliding into second base,0.24173996
+video1940,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1940.jpg,atributo,a baseball player is sliding into second base de color rojo,0.22236781
+video1940,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1940.jpg,objeto_externo,a baseball player is sliding into second base con un avion visible,0.21938498
+video1949,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1949.jpg,original,a comedic song about the houston texans football team,0.28274143
+video1949,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1949.jpg,negacion,no a comedic song about the houston texans football team,0.27326816
+video1949,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1949.jpg,conteo,dos a comedic song about the houston texans football team,0.28130794
+video1949,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1949.jpg,atributo,a comedic song about the houston texans football team de color rojo,0.27185515
+video1949,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1949.jpg,objeto_externo,a comedic song about the houston texans football team con un avion visible,0.26622257
+video1954,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1954.jpg,original,a blocky video game character is running towards a flight of stairs while dodging arrows and firing back at his assailant before finally reaching the stairs and walking up them victoriously,0.20409904
+video1954,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1954.jpg,negacion,no a blocky video game character is running towards a flight of stairs while dodging arrows and firing back at his assailant before finally reaching the stairs and walking up them victoriously,0.20389089
+video1954,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1954.jpg,conteo,dos a blocky video game character is running towards a flight of stairs while dodging arrows and firing back at his assailant before finally reaching the stairs and walking up them victoriously,0.2031922
+video1954,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1954.jpg,atributo,a blocky video game character is running towards a flight of stairs while dodging arrows and firing back at his assailant before finally reaching the stairs and walking up them victoriously de color rojo,0.19438718
+video1954,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1954.jpg,objeto_externo,a blocky video game character is running towards a flight of stairs while dodging arrows and firing back at his assailant before finally reaching the stairs and walking up them victoriously con un avion visible,0.20070927
+video1967,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1967.jpg,original,a man with spiky hair talks with a news reporter about golf,0.29446507
+video1967,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1967.jpg,negacion,no a man with spiky hair talks with a news reporter about golf,0.2896234
+video1967,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1967.jpg,conteo,dos a man with spiky hair talks with a news reporter about golf,0.2857411
+video1967,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1967.jpg,atributo,a man with spiky hair talks with a news reporter about golf de color rojo,0.27121928
+video1967,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1967.jpg,objeto_externo,a man with spiky hair talks with a news reporter about golf con un avion visible,0.3233447
+video1997,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1997.jpg,original,a man is water skiing behind a boat,0.24961862
+video1997,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1997.jpg,negacion,no a man is water skiing behind a boat,0.25128248
+video1997,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1997.jpg,conteo,dos a man is water skiing behind a boat,0.25444216
+video1997,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1997.jpg,atributo,a man is water skiing behind a boat de color rojo,0.24505626
+video1997,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video1997.jpg,objeto_externo,a man is water skiing behind a boat con un avion visible,0.22706603
+video2038,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video2038.jpg,original,some screenshots of baseball players swinging bats,0.28770328
+video2038,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video2038.jpg,negacion,no some screenshots of baseball players swinging bats,0.2446425
+video2038,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video2038.jpg,conteo,dos some screenshots of baseball players swinging bats,0.2779313
+video2038,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video2038.jpg,atributo,some screenshots of baseball players swinging bats de color rojo,0.2710824
+video2038,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video2038.jpg,objeto_externo,some screenshots of baseball players swinging bats con un avion visible,0.2944194
+video2054,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video2054.jpg,original,men are playing soccer and a man in a red shirt and a man in a yellow shirt get tackled,0.25378564
+video2054,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video2054.jpg,negacion,no men are playing soccer and a man in a red shirt and a man in a yellow shirt get tackled,0.2475748
+video2054,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video2054.jpg,conteo,dos men are playing soccer and a man in a red shirt and a man in a yellow shirt get tackled,0.24648452
+video2054,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video2054.jpg,atributo,men are playing soccer and a man in a red shirt and a man in a yellow shirt get tackled de color rojo,0.24910583
+video2054,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video2054.jpg,objeto_externo,men are playing soccer and a man in a red shirt and a man in a yellow shirt get tackled con un avion visible,0.24490911
+video2101,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video2101.jpg,original,a basketball player shoots a basket,0.268298
+video2101,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video2101.jpg,negacion,no a basketball player shoots a basket,0.26746705
+video2101,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video2101.jpg,conteo,dos a basketball player shoots a basket,0.27850443
+video2101,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video2101.jpg,atributo,a basketball player shoots a basket de color rojo,0.27933696
+video2101,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video2101.jpg,objeto_externo,a basketball player shoots a basket con un avion visible,0.27129897
+video2120,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video2120.jpg,original,a golfer drives a ball,0.223963
+video2120,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video2120.jpg,negacion,no a golfer drives a ball,0.21473609
+video2120,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video2120.jpg,conteo,dos a golfer drives a ball,0.2202042
+video2120,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video2120.jpg,atributo,a golfer drives a ball de color rojo,0.22615361
+video2120,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video2120.jpg,objeto_externo,a golfer drives a ball con un avion visible,0.21606506
+video2248,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video2248.jpg,original,on a baseball field referees discuss a play,0.26508048
+video2248,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video2248.jpg,negacion,no on a baseball field referees discuss a play,0.2548472
+video2248,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video2248.jpg,conteo,dos on a baseball field referees discuss a play,0.2453858
+video2248,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video2248.jpg,atributo,on a baseball field referees discuss a play de color rojo,0.26193178
+video2248,/workspace/Exposicion2/notebook_MSR_VTT/data/raw/video2248.jpg,objeto_externo,on a baseball field referees discuss a play con un avion visible,0.26671073
