@@ -62,15 +62,6 @@ SPORT_KEYWORDS = {
         "swim":4,
         "race":2,
         "olympic":3
-    },
-
-    "golf": {
-        "golf":5,
-        "golfer":5,
-        "golf course":5,
-        "golf club":4,
-        "putt":4,
-        "swing":2
     }
 
 }

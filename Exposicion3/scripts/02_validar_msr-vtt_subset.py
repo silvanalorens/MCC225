@@ -6,15 +6,16 @@ PROJECT_ROOT = Path(__file__).resolve().parent.parent
 
 
 # CSV original balanceado
-CSV_FILE = PROJECT_ROOT / "outputs" / "sports_msr-vtt_metadata.csv"
-
+#CSV_FILE = PROJECT_ROOT / "outputs" / "sports_msr-vtt_metadata.csv"
+CSV_FILE = PROJECT_ROOT / "outputs/temporales" / "sports33_msr-vtt_test_descargados.csv"
 
 # Carpeta donde están los mp4 descargados
-VIDEO_DIR = PROJECT_ROOT / "data" / "msr-vtt" / "videos"
-
+#VIDEO_DIR = PROJECT_ROOT / "data" / "msr-vtt" / "videos"
+VIDEO_DIR = PROJECT_ROOT / "data" / "msr-vtt" / "videos-test"
 
 # Nuevo CSV
-OUTPUT_FILE = PROJECT_ROOT / "outputs" / "sports30_msr-vtt_metadata_descargados.csv"
+#OUTPUT_FILE = PROJECT_ROOT / "outputs" / "sports_msr-vtt_metadata_descargados.csv"
+OUTPUT_FILE = PROJECT_ROOT / "outputs" / "sports33_msr-vtt_test.csv"
 
 
 # ==========================

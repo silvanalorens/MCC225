@@ -15,7 +15,7 @@ PROJECT_ROOT = Path(__file__).resolve().parent.parent
 CSV_FILE = (
     PROJECT_ROOT /
     "outputs" /
-    "sports33_msr-vtt_metadata_final.csv"
+    "sports33_msr-vtt_train.csv"
 )
 
 
