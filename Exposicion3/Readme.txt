@@ -1,5 +1,6 @@
 README - Clasificación multimodal de deportes utilizando MSR-VTT
 https://github.com/silvanalorens/MCC225/tree/main/Exposicion3
+Se omiten los archivos pesados de modelos, visualbert_sports_best.pt, lxmert_sports_best.pt
 
 DESCRIPCIÓN DEL EXPERIMENTO
 ===========================
