@@ -1,4 +1,4 @@
-#pip install opencv-python
+#pip install opencv-python-headless
 from pathlib import Path
 import pandas as pd
 import cv2
