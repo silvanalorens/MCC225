@@ -1,7 +1,9 @@
 .ipynb_checkpoints/
 **/.ipynb_checkpoints/
-# Videos datasets
+# archivos pesados
 *.mp4
+*.pt
+*.npy
 
 # Dataset MSR-VTT
 data/msr-vtt/videos/
